@@ -6,8 +6,9 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
 > Editing Keys
 - Generate Code ```Alt``` + ```Insert```
 - Reformat Code  ```Alt``` + ```Ctrl``` + ```L```
-- Comment / uncomment with line comment ```Ctrl``` + ```/```
-- Comment / uncomment with block comment ```Ctrl``` + ```Shift``` + ```/```
+- Code Completion ```Ctrl``` + ```Space```
+- Comment / Uncomment with Line Comment ```Ctrl``` + ```/```
+- Comment / Uncomment with Block Comment ```Ctrl``` + ```Shift``` + ```/```
 
 
 
