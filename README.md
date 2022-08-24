@@ -7,7 +7,7 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
   * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
   * [Basic Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
 
-## Android Studio
+## Android Studio <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="25.5"/>&nbsp;
 > Editing Keys
 - Generate Code ```Alt``` + ```Insert```
 - Reformat Code  ```Alt``` + ```Ctrl``` + ```L```
