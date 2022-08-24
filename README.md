@@ -31,6 +31,8 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
 
 
 
+## Basic Keyboard Shortcuts
 
+* Select All  ```Ctrl``` + ```A```
 
 
