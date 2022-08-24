@@ -11,7 +11,7 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
 - Comment / Uncomment with Line Comment ```Ctrl``` + ```/```
 - Comment / Uncomment with Block Comment ```Ctrl``` + ```Shift``` + ```/```
 - Duplicate A Line/Selected Part ```Ctrl``` + ```D```
-- Delete a Line/Selected Part ```Ctrl``` + ```Y```
+- Delete A Line/Selected Part ```Ctrl``` + ```Y```
 
 
 
