@@ -22,7 +22,7 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
 
 
 
-## VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/vscode-original.svg" title="VSCode"  alt="VSCode" width="25.5"/>&nbsp;
+## VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="25"/>&nbsp;
 
 
 
