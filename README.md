@@ -3,8 +3,9 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
 
 
 ## Android Studio
-
-- Format Code  ```Alt``` + ```Ctrl``` + ```L```
+> Editing Keys
+- Reformat Code  ```Alt``` + ```Ctrl``` + ```L```
+- Comment / uncomment with line comment ```Ctrl``` + ```/```
 
 
 
