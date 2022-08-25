@@ -4,7 +4,7 @@
 
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
-  * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
+  * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/edit/main/README.md#-vs-code-)
   * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
   * [Basic Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#basic-keyboard-shortcuts)
 
@@ -36,6 +36,13 @@
 
 
 ## ➤ VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="25"/>&nbsp;
+✔ General
+* Show Command Palette ```Ctrl``` + ```Shift``` + ```P``` OR ```F1```
+* Quick Open, Go to File… ```Ctrl``` + ```P``` 
+* New window/instance ```Ctrl``` + ```Shift``` + ```N``` 
+* Close window/instance ```Ctrl``` + ```Shift``` + ```W``` 
+* User Settings ```Ctrl``` + ```,``` 
+* Keyboard Shortcuts ```Ctrl``` + ```K``` OR ```Ctrl``` + ```S``` 
 
 
 
