@@ -77,6 +77,9 @@
 
 ## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
 
+✔ Most useful shortcuts to learn:
+* Double ```Shift```	&nbsp;To Search Everywhere - Quickly find any file, action, symbol, tool window, or setting in IntelliJ IDEA, in your project, and in the current Git repository.
+
 
 
 ## ➤ Basic Keyboard Shortcuts
