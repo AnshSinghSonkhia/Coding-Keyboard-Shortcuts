@@ -1,4 +1,4 @@
-# Coding Keyboard Shortcuts
+# Coding Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 ✔ All the Keyboard Shortcuts used while Coding <br>
 ✔ Specific Keyboard Controls for Android Studio, VS Code, IntelliJ IDEA
 
@@ -83,7 +83,7 @@
 
 
 
-## ➤ Basic Keyboard Shortcuts
+## ➤ Basic Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 * Select All  ```Ctrl``` + ```A```
 * Copy  ```Ctrl``` + ```C```
