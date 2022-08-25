@@ -1,6 +1,7 @@
 # Coding Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 ✔ All the Keyboard Shortcuts used while Coding <br>
 ✔ Specific Keyboard Controls for Android Studio, VS Code, IntelliJ IDEA
+![](https://img.shields.io/badge/-Visual_Studio_Code-darkblue?style=flat&logo=visual-studio-code&logoColor=white)
 
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
