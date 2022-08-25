@@ -4,7 +4,7 @@
 
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
-  * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/edit/main/README.md#-vs-code-)
+  * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-vs-code-)
   * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
   * [Basic Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#basic-keyboard-shortcuts)
 
