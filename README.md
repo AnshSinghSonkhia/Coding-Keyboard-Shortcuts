@@ -13,15 +13,17 @@
 - Generate Code ```Alt``` + ```Insert```
 - Reformat Code  ```Alt``` + ```Ctrl``` + ```L```
 - Code Completion ```Ctrl``` + ```Space```
-- Smart code completion (by expected type removes unrelated suggestions) ```Ctrl``` + ```Shift + ```Space```
+- Smart Code Completion (by Expected Type Removes Unrelated Suggestions) ```Ctrl``` + ```Shift``` + ```Space```
 - Quick Documentation ```Ctrl``` + ```Q```
 - Comment / Uncomment with Line Comment ```Ctrl``` + ```/```
 - Comment / Uncomment with Block Comment ```Ctrl``` + ```Shift``` + ```/```
 - Duplicate A Line/Selected Part ```Ctrl``` + ```D```
 - Delete A Line/Selected Part ```Ctrl``` + ```Y```
 - Refractor Code ```Ctrl``` + ```F6```
-- Insert Live template ```Ctrl``` + ```J```
-- 
+- Insert Live Template ```Ctrl``` + ```J```
+- Override Methods ```Ctrl``` + ```O```
+- Implement Methods ```Ctrl``` + ```I```
+- Surround With… ```Ctrl``` + ```Alt``` + ```T```
 
 
 
