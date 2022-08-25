@@ -1,5 +1,6 @@
 # Coding Keyboard Shortcuts
-All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for Android Studio, VS Code, IntelliJ IDEA
+✔ All the Keyboard Shortcuts used while Coding <br>
+✔ Specific Keyboard Controls for Android Studio, VS Code, IntelliJ IDEA
 
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
@@ -7,7 +8,7 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
   * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
   * [Basic Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#basic-keyboard-shortcuts)
 
-## Android Studio <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="25.5"/>&nbsp;
+## ➤ Android Studio <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="25.5"/>&nbsp;
 > Editing Keys
 - Generate Code ```Alt``` + ```Insert```
 - Reformat Code  ```Alt``` + ```Ctrl``` + ```L```
@@ -22,16 +23,16 @@ All the Keyboard Shortcuts used while Coding + Specific Keyboard Controls for An
 
 
 
-## VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="25"/>&nbsp;
+## ➤ VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="25"/>&nbsp;
 
 
 
 
-## IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
+## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
 
 
 
-## Basic Keyboard Shortcuts
+## ➤ Basic Keyboard Shortcuts
 
 * Select All  ```Ctrl``` + ```A```
 * Copy  ```Ctrl``` + ```C```
