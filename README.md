@@ -89,7 +89,6 @@
 * ```Alt+ ← / →``` Go back / forward
 * ```Ctrl+M``` Toggle Tab moves focus
 
-
 ✔ Search and replace
 
 * ```Ctrl+F``` Find
@@ -99,6 +98,10 @@
 * ```Ctrl+D``` Add selection to next Find match
 * ```Ctrl+K``` ```Ctrl+D``` Move last selection to next Find match
 * ```Alt``` + ```C``` OR ```R``` OR ```W``` Toggle case-sensitive OR regex OR whole word
+
+✔ Multi-cursor & Selection
+
+* 
 
 
 
