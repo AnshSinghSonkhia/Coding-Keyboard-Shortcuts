@@ -76,6 +76,19 @@
 * ```Alt+Z``` Toggle word wrap
 
 
+✔ Navigation Shortcuts
+
+* ```Ctrl+T``` Show all Symbols
+* ```Ctrl+G``` Go to Line...
+* ```Ctrl+P``` Go to File...
+* ```Ctrl+Shift+O``` Go to Symbol...
+* ```Ctrl+Shift+M``` Show Problems panel
+* ```F8``` Go to next error or warning
+* ```Shift+F8``` Go to previous error or warning
+* ```Ctrl+Shift+Tab``` Navigate editor group history
+* ```Alt+ ← / →``` Go back / forward
+* ```Ctrl+M``` Toggle Tab moves focus
+
 
 
 ## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
