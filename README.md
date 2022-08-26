@@ -131,4 +131,5 @@
 * Paste  ```Ctrl``` + ```V```
 * Undo  ```Ctrl``` + ```Z```
 * Redo  ```Ctrl``` + ```Y```
+* Save  ```Ctrl``` + ```S```
 
