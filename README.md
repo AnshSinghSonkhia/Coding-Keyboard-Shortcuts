@@ -90,6 +90,17 @@
 * ```Ctrl+M``` Toggle Tab moves focus
 
 
+✔ Search and replace
+
+* ```Ctrl+F``` Find
+* ```Ctrl+H``` Replace
+* ```F3 / Shift+F3``` Find next/previous
+* ```Alt+Enter``` Select all occurences of Find match
+* ```Ctrl+D``` Add selection to next Find match
+* ```Ctrl+K``` ```Ctrl+D``` Move last selection to next Find match
+* ```Alt``` + ```C``` OR ```R``` OR ```W``` Toggle case-sensitive OR regex OR whole word
+
+
 
 ## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
 
