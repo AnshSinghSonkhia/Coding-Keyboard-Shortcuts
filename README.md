@@ -150,11 +150,18 @@
 * Take Screenshot (for some devices) ```Fn``` + ```Windows logo key``` ```🪟``` + ```Space_Bar```
 * Lock Your PC ```Windows logo key``` ```🪟``` + ```L```
 * Switch between open apps: ```Alt``` + ```Tab```
-* Maximize Window: ```F11``` or ```Windows logo key``` ```🪟``` + ```Up arrow``` 
+* Maximize Window: ```F11``` or ```Windows logo key``` ```🪟``` + ```Up arrow``` ```↑```
 * Open Task View: ```Windows logo key``` ```🪟``` + ```Tab```
 * Display and hide the desktop: ```Windows logo key``` ```🪟``` + ```D```
 
+---
+> See all Keyboard Shortcuts at Official Site
 
+* [Windows 11 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_11)
+* [Windows 10 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
+* [Windows 8.1 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_8.1_&_Windows_8.1_RT)
+* [Windows 8.1 RT Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_8.1_&_Windows_8.1_RT)
+* [Windows 7 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_7)
 
 
 
