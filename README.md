@@ -114,6 +114,21 @@
 * ```Ctrl```+```Shift```+ ```Alt``` + ```(arrow key)```       Column (box) selection
 * ```Ctrl```+```Shift```+```Alt``` +```PgUp/PgDn```          Column (box) selection page up/down
 
+✔ Rich languages editing
+
+* ```Ctrl```+```Space```, ```Ctrl```+```I``` Trigger suggestion
+* ```Ctrl``` + ```Shift``` + ```Space``` Trigger parameter hints
+* ```Shift+Alt+F``` Format document
+* ```Ctrl+K``` ```Ctrl+F``` Format selection
+* ```F12``` Go to Definition
+* ```Alt+F12``` Peek Definition
+* ```Ctrl+K``` ```F12``` Open Definition to the side
+* ```Ctrl+.``` Quick Fix
+* ```Shift```+```F12``` Show References
+* ```F2``` Rename Symbol
+* ```Ctrl+K``` ```Ctrl+X``` Trim trailing whitespace
+* ```Ctrl+K``` ```M``` Change file language
+
 
 
 ## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
