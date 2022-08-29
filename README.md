@@ -141,6 +141,22 @@
 
 ✔ File management
 
+* ```Ctrl```+ ```N``` New File
+* ```Ctrl```+ ```O``` Open File...
+* ```Ctrl```+ ```S``` Save
+* ```Ctrl```+ ```Shift```+```S``` Save As...
+* ```Ctrl```+ ```K``` ```S``` Save All
+* ```Ctrl```+ ```F4``` Close
+* ```Ctrl```+ ```K``` ```Ctrl```+W``` Close All
+* ```Ctrl```+ ```Shift```+```T``` Reopen closed editor
+* ```Ctrl```+ ```K``` Enter Keep preview mode editor open
+* ```Ctrl```+ ```Tab``` Open next
+* ```Ctrl```+ ```Shift```+```Tab``` Open previous
+* ```Ctrl```+ ```K``` ```P``` Copy path of active file
+* ```Ctrl```+ ```K``` ```R``` Reveal active file in Explorer
+* ```Ctrl```+ ```K``` ```O``` Show active file in new window/instance
+
+
 
 ✔ Display
 
