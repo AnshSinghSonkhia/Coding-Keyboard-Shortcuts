@@ -129,6 +129,16 @@
 * ```Ctrl+K``` ```Ctrl+X``` Trim trailing whitespace
 * ```Ctrl+K``` ```M``` Change file language
 
+✔ Editor management
+
+* ```Ctrl+F4```, ```Ctrl+W``` Close editor
+* ```Ctrl+K``` ```F``` Close folder
+* ```Ctrl+\``` Split editor
+* ```Ctrl```+ ```1``` / ```2``` / ```3``` Focus into 1st, 2nd or 3rd editor group
+* ```Ctrl+K``` ```Ctrl```+ ```←```/```→``` Focus into previous/next editor group
+* ```Ctrl+Shift``` + ```PgUp``` / ```PgDn``` Move editor left/right
+* ```Ctrl+K``` ```←``` / ```→``` Move active editor group
+
 
 
 ## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
