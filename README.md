@@ -131,13 +131,13 @@
 
 ✔ Editor management
 
-* ```Ctrl+F4```, ```Ctrl+W``` Close editor
-* ```Ctrl+K``` ```F``` Close folder
-* ```Ctrl+\``` Split editor
+* ```Ctrl```+```F4```, ```Ctrl+W``` Close editor
+* ```Ctrl```+```K``` ```F``` Close folder
+* ```Ctrl```+```\``` Split editor
 * ```Ctrl```+ ```1``` / ```2``` / ```3``` Focus into 1st, 2nd or 3rd editor group
-* ```Ctrl+K``` ```Ctrl```+ ```←```/```→``` Focus into previous/next editor group
-* ```Ctrl+Shift``` + ```PgUp``` / ```PgDn``` Move editor left/right
-* ```Ctrl+K``` ```←``` / ```→``` Move active editor group
+* ```Ctrl```+```K``` ```Ctrl```+ ```←```/```→``` Focus into previous/next editor group
+* ```Ctrl```+```Shift``` + ```PgUp``` / ```PgDn``` Move editor left/right
+* ```Ctrl```+```K``` ```←``` / ```→``` Move active editor group
 
 
 
