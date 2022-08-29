@@ -139,6 +139,17 @@
 * ```Ctrl```+```Shift``` + ```PgUp``` / ```PgDn``` Move editor left/right
 * ```Ctrl```+```K``` ```←``` / ```→``` Move active editor group
 
+✔ File management
+
+
+✔ Display
+
+
+✔ Debug
+
+
+✔ Integrated Terminal
+
 
 
 ## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
