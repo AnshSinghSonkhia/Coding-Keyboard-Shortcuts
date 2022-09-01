@@ -176,6 +176,12 @@
 
 ✔ Debug
 
+* ```F9``` Toggle breakpoint
+* ```F5``` Start/Continue
+* ```Shift```+```F5``` Stop
+* ```F11``` / ```Shift```+```F11``` Step into/out
+* ```F10``` Step over
+* ```Ctrl+K``` ```Ctrl+I``` Show Hover
 
 ✔ Integrated Terminal
 
