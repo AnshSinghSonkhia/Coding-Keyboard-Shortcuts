@@ -185,6 +185,14 @@
 
 ✔ Integrated Terminal
 
+* ```Ctrl```+``` ` ``` Show integrated terminal
+* ```Ctrl```+```Shift```+ ``` ` ``` Create new terminal
+* ```Ctrl```+```C``` Copy selection
+* ```Ctrl```+```V``` Paste into active terminal
+* ```Ctrl```+```↑``` / ```↓``` Scroll up/down
+* ```Shift```+```PgUp``` / ```PgDn``` Scroll page up/down
+* ```Ctrl```+```Home``` / ```End``` Scroll to top/bottom
+
 
 
 ## ➤ IntelliJ IDEA <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="25"/>&nbsp;
