@@ -36,6 +36,15 @@
 * Debug ```Shift``` + ```F9```
 * Run context configuration from editor ```Ctrl``` + ```Shift``` + ```F10```
 
+✔ Debugging Keys
+
+* ```F8``` / ```F7``` — Step over / into
+* ```Shift``` + ```F7``` / ```Shift``` + ```F8``` — Smart step into/Step out
+* ```Alt``` + ```F9``` — Run to cursor
+* ```Alt``` + ```F8``` — Evaluate expression
+* ```F9``` — Resume program
+* ```Ctrl``` + ```F8``` — Toggle break point
+* ```Ctrl``` + ```Shift``` + ```F8``` — View breakpoints
 
 
 ## ➤ VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="25"/>&nbsp;
