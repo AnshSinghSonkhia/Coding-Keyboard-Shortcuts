@@ -2,7 +2,7 @@
 ✔ All the Keyboard Shortcuts used while Coding <br>
 ✔ Specific Keyboard Controls for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Android_Studio-darkred?style=flat&logo=android-studio&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/-Visual_Studio_Code-darkblue?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/-Visual_Studio_Code-darkblue?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/-Intellij-indigo?style=flat&logo=intellij-idea&logoColor=white)
 
 * Navigate To:
