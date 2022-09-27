@@ -226,7 +226,7 @@
 * ```Escape``` &nbsp; Focus the editor
 
 
-## ➤ Basic Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+## ➤ Windows Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 * Select All  ```Ctrl``` + ```A```
 * Copy  ```Ctrl``` + ```C```
@@ -243,6 +243,27 @@
 * Maximize Window: ```F11``` or ```Windows logo key``` ```🪟``` + ```Up arrow``` ```↑```
 * Open Task View: ```Windows logo key``` ```🪟``` + ```Tab```
 * Display and hide the desktop: ```Windows logo key``` ```🪟``` + ```D```
+
+
+## ➤ Mac Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+
+
+
+
+## ➤ YouTube Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+
+
+
+
+## ➤ Gmail Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+
+
+
+
+## ➤ Excel Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ---
 > See all Keyboard Shortcuts at Official Site
