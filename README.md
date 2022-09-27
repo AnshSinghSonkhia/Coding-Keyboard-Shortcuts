@@ -7,6 +7,12 @@
 ![](https://img.shields.io/badge/-Visual_Studio_Code-darkblue?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/-Intellij-indigo?style=flat&logo=intellij-idea&logoColor=white)
 
+> **Warning** <br>
+> Only Add 1 Keyboard Shortcut Per Pull Request.
+
+> **Note** <br>
+> You Only Need 4 Pull Request Accepted to Win Hacktoberfest Swags.
+
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
   * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-vs-code-)
