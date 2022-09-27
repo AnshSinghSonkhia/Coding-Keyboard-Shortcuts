@@ -8,7 +8,8 @@
 ![](https://img.shields.io/badge/-Intellij-indigo?style=flat&logo=intellij-idea&logoColor=white)
 
 > **Warning** <br>
-> Only Add 1 Keyboard Shortcut Per Pull Request.
+> * Only Add 1 Keyboard Shortcut Per Pull Request. <br>
+> * Don't Duplicate Shortcuts!
 
 > **Note** <br>
 > You Only Need 4 Pull Request Accepted to Win Hacktoberfest Swags.
