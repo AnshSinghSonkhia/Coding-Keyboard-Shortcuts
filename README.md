@@ -26,33 +26,8 @@
   * [Keyboard Shortcuts for International Characters]()
 
 
-## ➤ Mac Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
-
-
-
-## ➤ Gmail Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
-
-
-
-
-## ➤ Excel Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
-
-
-
-
-## ➤ Microsoft Word Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
-
-
-
-
-## ➤ Keyboard Shortcuts for International Characters   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
 ---
-> See all Keyboard Shortcuts at Official Site
+> Examples of some of the Keyboard Shortcuts at Official Site
 
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-in/HT201236)
 * [Windows 11 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_11)
