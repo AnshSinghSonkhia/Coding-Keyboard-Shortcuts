@@ -13,7 +13,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 * Navigate To:
-  * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
+  * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Android%20Studio%20Shortcuts.md)
   * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-vs-code-)
   * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-intellij-idea-)
   * [Windows Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-basic-keyboard-shortcuts)
