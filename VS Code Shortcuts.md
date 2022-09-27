@@ -1,4 +1,4 @@
-## ➤ VS Code <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="25"/>&nbsp;
+## ➤ VS Code Keyboard Shortcuts <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="25"/>&nbsp;
 ✔ General
 * Show Command Palette ```Ctrl``` + ```Shift``` + ```P``` OR ```F1```
 * Quick Open, Go to File… ```Ctrl``` + ```P``` 
