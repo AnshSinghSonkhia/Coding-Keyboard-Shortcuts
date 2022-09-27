@@ -11,7 +11,13 @@
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
   * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-vs-code-)
   * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-intellij-idea-)
-  * [Basic Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-basic-keyboard-shortcuts)
+  * [Windows Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-basic-keyboard-shortcuts)
+  * [Mac Keyboard Shortcuts]()
+  * [YouTube Keyboard Shortcuts]()
+  * [Gmail Keyboard Shortcuts]()
+  * [Excel Keyboard Shortcuts]()
+  * [Microsoft Word Keyboard Shortcuts]()
+  * [Keyboard Shortcuts for International Characters]()
 
 ## ➤ Android Studio <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="25.5"/>&nbsp;
 ✔ Editing Keys
@@ -264,6 +270,18 @@
 
 
 ## ➤ Excel Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+
+
+
+
+## ➤ Microsoft Word Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+
+
+
+
+## ➤ Keyboard Shortcuts for International Characters   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ---
 > See all Keyboard Shortcuts at Official Site
