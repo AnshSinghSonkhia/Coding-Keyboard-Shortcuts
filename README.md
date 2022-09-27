@@ -1,4 +1,6 @@
-# Coding Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+# Coding Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;  ![](https://img.shields.io/badge/-Good_First_Issue-blue?style=flat&logo=&logoColor=black)&nbsp;
+
+
 ✔ All the Keyboard Shortcuts used while Coding <br>
 ✔ Specific Keyboard Controls for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Android_Studio-darkred?style=flat&logo=android-studio&logoColor=white)&nbsp;
