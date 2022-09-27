@@ -1,4 +1,5 @@
 # Coding Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;  ![](https://img.shields.io/badge/-Good_First_Issue-blue?style=flat&logo=&logoColor=black)&nbsp;
+![](https://i.imgur.com/waxVImv.png)
 
 
 ✔ All the Keyboard Shortcuts used while Coding <br>
@@ -14,6 +15,8 @@
 > **Note** <br>
 > You Only Need 4 Pull Request Accepted to Win Hacktoberfest Swags.
 
+![](https://i.imgur.com/waxVImv.png)
+
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#android-studio)
   * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-vs-code-)
@@ -26,8 +29,8 @@
   * [Microsoft Word Keyboard Shortcuts]()
   * [Keyboard Shortcuts for International Characters]()
 
+![](https://i.imgur.com/waxVImv.png)
 
----
 > Examples of some of the Keyboard Shortcuts at Official Site
 
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-in/HT201236)
