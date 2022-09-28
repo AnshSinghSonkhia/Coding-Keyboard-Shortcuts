@@ -45,15 +45,15 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Android%20Studio%20Shortcuts.md)
-  * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-vs-code-)
-  * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-intellij-idea-)
-  * [Windows Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/README.md#-basic-keyboard-shortcuts)
-  * [Mac Keyboard Shortcuts]()
-  * [YouTube Keyboard Shortcuts]()
-  * [Gmail Keyboard Shortcuts]()
-  * [Excel Keyboard Shortcuts]()
-  * [Microsoft Word Keyboard Shortcuts]()
-  * [Keyboard Shortcuts for International Characters]()
+  * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/VS%20Code%20Shortcuts.md)
+  * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/IntelliJ%20Shortcuts.md)
+  * [Windows Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Windows%20Keyboard%20Shortcuts.md)
+  * [Mac Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Mac%20Keyboard%20Shortcuts.md)
+  * [YouTube Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/YouTube%20Keyboard%20Shortcuts.md)
+  * [Gmail Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Gmail%20Keyboard%20Shortcuts.md)
+  * [Excel Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Excel%20Keyboard%20Shortcuts.md)
+  * [Microsoft Word Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Microsoft%20Word%20Shortcuts.md)
+  * [Keyboard Shortcuts for International Characters](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Keyboard%20Shortcuts%20for%20International%20Characters.md)
 
 ![](https://i.imgur.com/waxVImv.png)
 
