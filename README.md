@@ -1,16 +1,19 @@
-# 🔥 Hacktoberfest 2022 + Coding Keyboard Shortcuts 🔥
+# 🔥 Hacktoberfest 2022 + Coding Keyboard Shortcuts 🔥  &nbsp;    ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 <div align="center">
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts)
+<!--[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts)-->
+
+![](https://img.shields.io/badge/-Good_First_Issue-blue?style=flat&logo=&logoColor=black)&nbsp;
 <img src="https://img.shields.io/badge/Hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/AnshSinghSonkhia" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 
 </div>
 
-# Coding Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;  ![](https://img.shields.io/badge/-Good_First_Issue-blue?style=flat&logo=&logoColor=black)&nbsp;
+# Coding Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 ![](https://i.imgur.com/waxVImv.png)
 
 
