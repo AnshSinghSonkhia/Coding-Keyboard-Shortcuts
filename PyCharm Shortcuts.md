@@ -2,3 +2,4 @@
 
 
 * Example ```Ctrl``` + ```Shift``` 
+* Comment out a line or block of code ```Ctrl``` + ```Shift``` + ```/```
