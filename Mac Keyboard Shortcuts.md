@@ -7,3 +7,6 @@
 * Close Window : ```CMD + W```
 * New Window : ```CMD + N```
 * Reload : ```CMD + R```
+* Find : ```CMD + F```
+* Minimize : ```CMD + M```
+* Save : ```CMD + S```
