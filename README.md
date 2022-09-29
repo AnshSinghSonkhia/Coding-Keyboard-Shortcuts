@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
 <a href="https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/fork" target="blank"><img src="https://img.shields.io/github/forks/AnshSinghSonkhia/Coding-Keyboard-Shortcuts?style=flat" alt="forks"/></a>
 <a href="https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/stargazers" target="blank"><img src="https://img.shields.io/github/stars/AnshSinghSonkhia/Coding-Keyboard-Shortcuts?style=flat" alt="stars"/></a>
+<a href="https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/issues?q=is%3Aissue+" target="blank"><img src="https://img.shields.io/github/issues/AnshSinghSonkhia/Coding-Keyboard-Shortcuts?style=flat-square" alt="opensourceEvents issues"/></a>
+<a href="https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/pulls?q=is%3Apr" target="blank"><img src="https://img.shields.io/github/issues-pr/AnshSinghSonkhia/Coding-Keyboard-Shortcuts?style=flat-square" alt="opensourceEvents pull-requests"/></a>
 <a href="https://github.com/AnshSinghSonkhia"><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 
 </div>
