@@ -51,6 +51,12 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 ![](https://i.imgur.com/waxVImv.png)
 
+
+## 🧁 Enjoy Your HACKTOBERFEST 2022 Swags.. 👕
+![](https://go.kotisdesign.com/wp-content/uploads/2020/02/digital-ocean-map.jpg)
+
+![](https://i.imgur.com/waxVImv.png)
+
 * Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Android%20Studio%20Shortcuts.md)
   * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/VS%20Code%20Shortcuts.md)
