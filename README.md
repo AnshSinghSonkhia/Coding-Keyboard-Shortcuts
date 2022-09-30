@@ -1,4 +1,4 @@
-# 🔥 Hacktoberfest 2022 + Coding Keyboard Shortcuts 🔥  &nbsp;    ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;
+# Hacktoberfest 2022 &nbsp; x &nbsp; Coding Keyboard Shortcuts  &nbsp;    ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 <div align="center">
@@ -48,6 +48,12 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 > **Note** <br>
 > You Only Need 4 Pull Request Accepted to Win Hacktoberfest Swags.
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+## 🧁 Enjoy Your HACKTOBERFEST 2022 Swags.. 👕
+![](https://go.kotisdesign.com/wp-content/uploads/2020/02/digital-ocean-map.jpg)
 
 ![](https://i.imgur.com/waxVImv.png)
 
