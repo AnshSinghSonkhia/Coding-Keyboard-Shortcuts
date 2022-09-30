@@ -1,4 +1,4 @@
-# 🔥 Hacktoberfest 2022 + Coding Keyboard Shortcuts 🔥  &nbsp;    ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;
+# Hacktoberfest 2022 &nbsp; x &nbsp; Coding Keyboard Shortcuts  &nbsp;    ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 <div align="center">
