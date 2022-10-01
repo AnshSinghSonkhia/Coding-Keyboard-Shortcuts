@@ -74,10 +74,10 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
       <td align="center"><a href="https://github.com/anubhav047"><img src="https://avatars.githubusercontent.com/u/91625106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anubhav Goel</b></sub></a></td>
       <td align="center"><a href="https://github.com/mrkc2303"><img src="https://avatars.githubusercontent.com/u/67221487?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kanishk Chhabra</b></sub></a></td>      
       <td align="center"><a href="https://github.com/xcelr8"><img src="https://avatars.githubusercontent.com/u/19795313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xcelr8</b></sub></a></td>
-      <!--
-      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
-      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/ishani-1255"><img src="https://avatars.githubusercontent.com/u/112965737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ishika Ishani</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Suraj-Bhandarkar-S"><img src="https://avatars.githubusercontent.com/u/42907076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suraj Bhandarkar S</b></sub></a></td>
     </tr>
+    <!--
     <tr>
       <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
       <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
