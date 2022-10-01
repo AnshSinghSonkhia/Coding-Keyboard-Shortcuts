@@ -10,6 +10,7 @@
 ---
 * Take Screenshot ```Windows logo key``` ```🪟``` + ```PrtScn```
 * Take Screenshot (for some devices) ```Fn``` + ```Windows logo key``` ```🪟``` + ```Space_Bar```
+* Take Screenshot of a specific area ```Windows logo key``` ```🪟``` + ```Shift``` + ```S```
 * Lock Your PC ```Windows logo key``` ```🪟``` + ```L```
 * Switch between open apps: ```Alt``` + ```Tab```
 * Maximize Window: ```F11``` or ```Windows logo key``` ```🪟``` + ```Up arrow``` ```↑```
