@@ -23,10 +23,18 @@
   </tr>
   <tr>
     <td>â, ê, î, ô, û</td>
-    <td>CTRL+SHIFT+^ (CARET) </td>
+    <td>CTRL+SHIFT+ ^ (CARET) </td>
   </tr>
   <tr>
     <td>Â, Ê, Î, Ô, Û</td>
-    <td>CTRL+SHIFT+^ (CARET) </td>
+    <td>CTRL+SHIFT+ ^ (CARET) </td>
+  </tr>
+  <tr>
+    <td>ã, ñ, õ</td>
+    <td>CTRL+SHIFT+ ~ (TILDE)</td>
+  </tr>
+  <tr>
+    <td>Ã, Ñ, Õ</td>
+    <td>CTRL+SHIFT+ ~ (TILDE)</td>
   </tr>
 </table>
