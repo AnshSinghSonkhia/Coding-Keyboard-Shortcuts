@@ -1,7 +1,8 @@
 ## ➤ Excel Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 * Save  ```Ctrl``` + ```S```
+
+* To open an existing workbook. `Ctrl + O`
 * To create a new workbook ```Ctrl``` + ```N```
-* To open an existing workbook ```Ctrl``` + ```O```
 * To save a workbook/spreadsheet ```Ctrl``` + ```S```
 * To close the current workbook ```Ctrl``` + ```W```
 * To close Excel ```Ctrl``` + ```F4```
@@ -27,7 +28,8 @@
 * To select all the cells on the left ```Ctrl``` + ```Shift``` + ```Left Arrow```
 * To select the column from the selected cell to the end of the table ```Ctrl``` + ```Shift``` + ```Up Arrow```
 * To select all the cells above the selected cell ```Ctrl``` + ```Shift``` + ```Down Arrow```
-* To add a comment to a cell ``Shift + F2``
+
+* To add a comment to a cell ``Shift + F2```
 * To delete a cell comment ``Shift + F10 + D``
 * To display find and replace ``Ctrl + H``
 * To activate the filter ``Ctrl + Shift + L``
@@ -50,3 +52,4 @@
 * To unhide a selected column ``Ctrl + Shift + 0``
 * To group rows or columns ``Alt + Shift + Right arrow``
 * To ungroup rows or columns ``Alt + Shift + Left arrow``
+
