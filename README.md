@@ -80,9 +80,9 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
       <td align="center"><a href="https://github.com/Suraj-Bhandarkar-S"><img src="https://avatars.githubusercontent.com/u/42907076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suraj Bhandarkar S</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/Harsh97x"><img src="https://avatars.githubusercontent.com/u/71343199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harsh Shukla</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/CharuIsCoding"><img src="https://avatars.githubusercontent.com/u/91822081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CharuIsCoding</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/AnshHacks"><img src="https://avatars.githubusercontent.com/u/91717674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AnshHacks</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/snikenbusper"><img src="https://avatars.githubusercontent.com/u/44520594?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sniken</b></sub><br> :computer: </a></td>
       <!--
-      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub><br> :computer: </a></td>
-      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub><br> :computer: </a></td>
     -->
     </tr>
