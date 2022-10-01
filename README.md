@@ -81,13 +81,13 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 * [Windows 7 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_7)
 
 
-<!--
+
 ## Thanks to all contributors ❤
 
  <a href = "https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=AnshSinghSonkhia/Coding-Keyboard-Shortcuts"/>
  </a>
--->
+
 
 
 
