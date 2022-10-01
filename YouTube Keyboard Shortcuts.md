@@ -1,5 +1,5 @@
 ## ➤ YouTube Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-* Stop/Play  ```Spacebar```
+* Stop/Play  ```Spacebar``` or ```K```
 * Mute  ```M```
 * Seek backward 10 seconds in player ```J```
 * Seek forward 10 seconds in player ```L```
@@ -13,7 +13,10 @@
 * Seek to the beginning of the video ```0```
 * Go to search box ```/```
 * Activate/Deactivate full screen ```F```
+* Enter Theater Mode ```t```
 * Activate closed captions and subtitles if available ```C```
+* Decrease captions and subtitles font size ```-```
+* Increase captions and subtitles font size ```+```
 * Move to the next video ```Shift``` + ```N```
 * Move to the previous video ```Shift``` + ```P```
 * Open the Miniplayer ```I```

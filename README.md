@@ -1,5 +1,9 @@
 # Hacktoberfest 2022 &nbsp; x &nbsp; Coding Keyboard Shortcuts  &nbsp;    ![](https://img.shields.io/badge/-Hacktoberfest_2022-darkred?style=flat&logo=Hacktoberfest&logoColor=white)&nbsp;
+![image](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/hacktoberfest.png)
+
+<!--
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+-->
 
 <div align="center">
 
@@ -57,7 +61,45 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 ![](https://i.imgur.com/waxVImv.png)
 
-* Navigate To:
+
+
+## Thanks to all Contributors ✨
+
+Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributors.org/docs/en/emoji-key)):-->
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/stefanoleggio"><img src="https://avatars.githubusercontent.com/u/27731046?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefano Leggio</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/anubhav047"><img src="https://avatars.githubusercontent.com/u/91625106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anubhav Goel</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/mrkc2303"><img src="https://avatars.githubusercontent.com/u/67221487?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kanishk Chhabra</b></sub><br> :computer: </a></td>      
+      <td align="center"><a href="https://github.com/xcelr8"><img src="https://avatars.githubusercontent.com/u/19795313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xcelr8</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/ishani-1255"><img src="https://avatars.githubusercontent.com/u/112965737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ishika Ishani</b></sub><br> :computer: </a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Suraj-Bhandarkar-S"><img src="https://avatars.githubusercontent.com/u/42907076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suraj Bhandarkar S</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/Harsh97x"><img src="https://avatars.githubusercontent.com/u/71343199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harsh Shukla</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/CharuIsCoding"><img src="https://avatars.githubusercontent.com/u/91822081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CharuIsCoding</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/AnshHacks"><img src="https://avatars.githubusercontent.com/u/91717674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AnshHacks</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/snikenbusper"><img src="https://avatars.githubusercontent.com/u/44520594?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sniken</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/cygnu7"><img src="https://avatars.githubusercontent.com/u/44861895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cygnus Seven</b></sub><br> :computer: </a></td>
+    </tr>
+      <td align="center"><a href="https://github.com/Finance-ASS"><img src="https://avatars.githubusercontent.com/u/114765106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Finance-ASS</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/yellowberard"><img src="https://avatars.githubusercontent.com/u/82977727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Goel</b></sub><br> :computer: </a></td>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+## Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Android%20Studio%20Shortcuts.md)
   * [VS Code Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/VS%20Code%20Shortcuts.md)
   * [IntelliJ Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/IntelliJ%20Shortcuts.md)
@@ -69,8 +111,6 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
   * [Microsoft Word Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Microsoft%20Word%20Shortcuts.md)
   * [Keyboard Shortcuts for International Characters](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Keyboard%20Shortcuts%20for%20International%20Characters.md)
 
-![](https://i.imgur.com/waxVImv.png)
-
 > Examples of some of the Keyboard Shortcuts at Official Site
 
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-in/HT201236)
@@ -81,18 +121,17 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 * [Windows 7 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_7)
 
 
-
+<!--
 ## Thanks to all contributors ❤
 
  <a href = "https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=AnshSinghSonkhia/Coding-Keyboard-Shortcuts"/>
  </a>
+-->
 
 
 
-
-
-
+![](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
