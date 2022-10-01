@@ -3,9 +3,9 @@
 
 <table>
   <tr>
-    <th>Action</th>
-    <th>Shortcut</th>
-    <th>Use/Description</th>
+    <th><b>Action</b></th>
+    <th><b>Shortcut</b></th>
+    <th><b>Use/Description</b></th>
   </tr>
   <tr>
     <td>Comment Out</td>
@@ -21,5 +21,10 @@
     <td>Show Context Actions</td>
     <td>Alt + Enter </td>
     <td>Quick-fixes for highlighted errors and warnings, intention actions for improving and optimizing your code.</td>
+  </tr>
+  <tr>
+    <td>Navigate between code issues</td>
+    <td>F2 | Shift+F2 </td>
+    <td>Jump to the next or previous highlighted error.</td>
   </tr>
 </table>
