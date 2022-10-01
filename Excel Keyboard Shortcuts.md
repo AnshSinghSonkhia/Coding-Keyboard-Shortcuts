@@ -2,7 +2,6 @@
 * Save  ```Ctrl``` + ```S```
 
 * To open an existing workbook. `Ctrl + O`
-=======
 * To create a new workbook ```Ctrl``` + ```N```
 * To save a workbook/spreadsheet ```Ctrl``` + ```S```
 * To close the current workbook ```Ctrl``` + ```W```
