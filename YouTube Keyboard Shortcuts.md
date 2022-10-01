@@ -15,7 +15,7 @@
 * Activate/Deactivate full screen ```F```
 * Enter Theater Mode ```t```
 * Activate closed captions and subtitles if available ```C```
-* Decrease captions and subtitles font sizw ```-```
+* Decrease captions and subtitles font size ```-```
 * Increase captions and subtitles font size ```+```
 * Move to the next video ```Shift``` + ```N```
 * Move to the previous video ```Shift``` + ```P```
