@@ -13,4 +13,12 @@
     <td>À, È, Ì, Ò, Ù</td>
     <td>Ctrl + ` (ACCENT GRAVE) </td>
   </tr>
+  <tr>
+    <td>á, é, í, ó, ú, ý</td>
+    <td>Ctrl + ' (APOSTROPHE) </td>
+  </tr>
+  <tr>
+    <td>Á, É, Í, Ó, Ú, Ý</td>
+    <td>Ctrl + ' (APOSTROPHE) </td>
+  </tr>
 </table>
