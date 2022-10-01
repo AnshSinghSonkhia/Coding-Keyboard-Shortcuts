@@ -27,3 +27,26 @@
 * To select all the cells on the left ```Ctrl``` + ```Shift``` + ```Left Arrow```
 * To select the column from the selected cell to the end of the table ```Ctrl``` + ```Shift``` + ```Up Arrow```
 * To select all the cells above the selected cell ```Ctrl``` + ```Shift``` + ```Down Arrow```
+* To add a comment to a cell ``Shift + F2``
+* To delete a cell comment ``Shift + F10 + D``
+* To display find and replace ``Ctrl + H``
+* To activate the filter ``Ctrl + Shift + L``
+* To insert the current date ``Ctrl + ;``
+* To insert current time ``Ctrl + Shift + :``
+* To insert a hyperlink ``Ctrl + k``
+* To apply the currency format ``Ctrl + Shift + $``
+* To apply the percent format ``Ctrl + Shift + %``
+* To go to the “Tell me what you want to do” box ``Alt + Q``
+
+### Row and Column Formatting Shortcut Keys
+
+* To select the entire row ``Shift + Space``
+* To select the entire column ``Ctrl + Space``
+* To delete a column ``Alt+H+D+C``
+* To delete a row ``Shift + Space, Ctrl + - ``
+* To hide selected row ``Ctrl + 9``
+* To unhide selected row ``Ctrl + Shift + 9``
+* To hide a selected column ``Ctrl + 0``
+* To unhide a selected column ``Ctrl + Shift + 0``
+* To group rows or columns ``Alt + Shift + Right arrow``
+* To ungroup rows or columns ``Alt + Shift + Left arrow``
