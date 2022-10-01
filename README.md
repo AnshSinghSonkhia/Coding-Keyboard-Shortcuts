@@ -81,15 +81,45 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 * [Windows 7 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_7)
 
 
-
+<!--
 ## Thanks to all contributors ❤
 
  <a href = "https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=AnshSinghSonkhia/Coding-Keyboard-Shortcuts"/>
  </a>
+-->
 
+## Thanks to all Contributors ✨
 
+Thanks go to these wonderful people ❤ <!--([emoji key](https://allcontributors.org/docs/en/emoji-key)):-->
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/stefanoleggio"><img src="https://avatars.githubusercontent.com/u/27731046?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefano Leggio</b></sub></a></td>
+      <!--
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub></a></td>
+    </tr>
+    -->
+  </tbody>
+</table>
 
 
 
