@@ -45,4 +45,8 @@
     <td>Ä, Ë, Ï, Ö, Ü, Ÿ</td>
     <td>CTRL + SHIFT + : (COLON)</td>
   </tr>
+  <tr>
+    <td>The Unicode character for the specified Unicode (hexadecimal) character code</td>
+    <td>The character code, ALT+X <br> For example, to insert the euro currency symbol Euro currency symbol, press 20AC, and then hold down the ALT key and press X.</td>
+  </tr>
 </table>
