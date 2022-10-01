@@ -21,4 +21,12 @@
     <td>Á, É, Í, Ó, Ú, Ý</td>
     <td>Ctrl + ' (APOSTROPHE) </td>
   </tr>
+  <tr>
+    <td>â, ê, î, ô, û</td>
+    <td>CTRL+SHIFT+^ (CARET) </td>
+  </tr>
+  <tr>
+    <td>Â, Ê, Î, Ô, Û</td>
+    <td>CTRL+SHIFT+^ (CARET) </td>
+  </tr>
 </table>
