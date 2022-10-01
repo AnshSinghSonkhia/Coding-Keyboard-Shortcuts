@@ -16,3 +16,5 @@
 * Maximize Window: ```F11``` or ```Windows logo key``` ```🪟``` + ```Up arrow``` ```↑```
 * Open Task View: ```Windows logo key``` ```🪟``` + ```Tab```
 * Display and hide the desktop: ```Windows logo key``` ```🪟``` + ```D```
+* Record Screen: ```Windows logo key``` ```Alt``` + ```R```
+* GameBar: ```Windows logo key``` + ```G```
