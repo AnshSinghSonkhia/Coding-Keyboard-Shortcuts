@@ -82,9 +82,10 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
       <td align="center"><a href="https://github.com/CharuIsCoding"><img src="https://avatars.githubusercontent.com/u/91822081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CharuIsCoding</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/AnshHacks"><img src="https://avatars.githubusercontent.com/u/91717674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AnshHacks</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/snikenbusper"><img src="https://avatars.githubusercontent.com/u/44520594?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sniken</b></sub><br> :computer: </a></td>
-      <!--
-      <td align="center"><a href="https://github.com/AnshSinghSonkhia"><img src="https://avatars.githubusercontent.com/u/110414565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ansh Singh Sonkhia</b></sub><br> :computer: </a></td>
-    -->
+      <td align="center"><a href="https://github.com/cygnu7"><img src="https://avatars.githubusercontent.com/u/44861895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cygnus Seven</b></sub><br> :computer: </a></td>
+    </tr>
+      <td align="center"><a href="https://github.com/Finance-ASS"><img src="https://avatars.githubusercontent.com/u/114765106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Finance-ASS</b></sub><br> :computer: </a></td>
+    <tr>
     </tr>
   </tbody>
 </table>
