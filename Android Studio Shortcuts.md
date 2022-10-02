@@ -9,6 +9,7 @@
 - Comment / Uncomment with Block Comment ```Ctrl``` + ```Shift``` + ```/```
 - Duplicate A Line/Selected Part ```Ctrl``` + ```D```
 - Delete A Line/Selected Part ```Ctrl``` + ```Y```
+- Delete To End of a Word ```Ctrl``` + ```Delete```
 - Refractor Code ```Ctrl``` + ```F6```
 - Insert Live Template ```Ctrl``` + ```J```
 - Override Methods ```Ctrl``` + ```O```
