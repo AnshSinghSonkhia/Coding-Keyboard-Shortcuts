@@ -12,3 +12,22 @@
 * Italicize highlighted section  ```Ctrl``` + ```I```
 * Justify paragraph  ```Ctrl``` + ```J```
 * Insert hyperlink   ```Ctrl``` + ```K```
+* Example  ```Ctrl``` + ```S```
+* Changes text to heading 3 ``Ctrl + Alt + 3``
+* Open Help ``F1``
+* Change the case of the selected text ``Shift + F3``
+* Reveal Formatting ``Shift + F1``
+* Task Pane ``Ctrl + F1``
+* Paste ``Shift + Insert``
+* Line Break ``Shift + Enter``
+* To the location of the insertion point when the document was last closed ``Shift + F5``
+* To the end of a window Down ``Alt + Ctrl + Shift + Page``
+* To the beginning of a document ``Ctrl + Shift + Down Arrow``
+* To the beginning of a paragraph ``Ctrl + Shift + End``
+* Move text or graphics ``F2``
+* Repeat the last action performed (2000 +) ``F4``
+* Go to next pane or frame ``F6``
+* Spell check selected text and or document ``F7``
+* Turn extend mode on ``F8``
+* Activate the menu bar ``F10``
+* Turn extend mode off ``Esc``
