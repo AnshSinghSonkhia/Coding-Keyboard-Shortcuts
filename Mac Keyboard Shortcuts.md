@@ -5,3 +5,4 @@
 * Find All Misspelled : ```CMD``` + ```; ```
 * Select Code Right of the Cursor : ```CMD``` + ```Shift``` + ```Right Arrow```
 * Take a screenshot : ```CMD``` + ```Shift``` + ```3```
+* Take a screenshot of selected area : ```CMD``` + ```Shift``` + ```4```
