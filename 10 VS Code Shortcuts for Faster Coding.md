@@ -1,0 +1,10 @@
+- Ctrl + Shift + A => Toggle Block Comment 
+- Ctrl + L => Select Current Line
+- Ctrl + Space => Trigger Suggestion
+- Alt + Up arrow / Alt + Down Arrow => Move line up /down
+- Ctrl + . => Quick fix
+- F3 / Shift F3 = > Find Next / Previous
+- Ctrl + ` => Show / Hide Integrated Terminal
+- Ctrl + Shift +M => Show Problems panel
+- Ctrl + B => Toggle Sidebar visibility
+- Ctrl + W => Close File / Close Editor
