@@ -25,3 +25,9 @@
 * Collapse entire conversation 	```:```
 * Add conversation to Tasks 	```Shift``` + ```t```
 * Add Cc Recipients to Your Email ```Ctrl``` + ```Shift``` + ```C```
+* Go to next page ```g``` + ```n```
+* Go to previous page ```g``` + ```p```
+* Back to threadlist ```u```
+* Go to inbox ```g```+```i```
+* Go to sent messages ```g```+```t```
+* Open spelling Suggestions ```Ctrl```+```Shift```+```m```
