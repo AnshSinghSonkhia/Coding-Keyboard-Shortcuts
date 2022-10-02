@@ -27,4 +27,9 @@
     <td>F2 | Shift+F2 </td>
     <td>Jump to the next or previous highlighted error.</td>
   </tr>
+  <tr>
+    <td>Run Program</td>
+    <td>Shift+F10 </td>
+    <td>To Run / Execute Program.</td>
+  </tr>
 </table>
