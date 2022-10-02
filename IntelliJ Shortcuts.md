@@ -16,4 +16,5 @@
 * ```Alt+F7``` &nbsp; Find Usages | (Show all places where a code element is used across your project.)
 * ```Alt+1``` &nbsp; Focus the Project tool window
 * ```Escape``` &nbsp; Focus the editor
+* ```ctrl+]``` Move to current code block end
 
