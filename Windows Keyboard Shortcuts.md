@@ -20,3 +20,4 @@
 * GameBar: ```Windows logo key``` + ```G```
 * Action Center: ```Windows logo key``` ```🪟``` + ```A```
 * Open Search: ```Windows logo key``` ```🪟``` + ```S```
+* Split Windows Screen: ```Windows logo key``` ```🪟``` + ```Left or Right Arrow Key```
