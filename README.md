@@ -81,7 +81,7 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
       <td align="center"><a href="https://github.com/ishani-1255"><img src="https://avatars.githubusercontent.com/u/112965737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ishika Ishani</b></sub><br> :computer: </a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Suraj-Bhandarkar-S"><img src="https://avatars.githubusercontent.com/u/42907076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suraj Bhandarkar S</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/iamvpbhaskar"><img src="https://avatars.githubusercontent.com/u/56016547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ved Prakash Bhaskar</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/Harsh97x"><img src="https://avatars.githubusercontent.com/u/71343199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harsh Shukla</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/CharuIsCoding"><img src="https://avatars.githubusercontent.com/u/91822081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CharuIsCoding</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/AnshHacks"><img src="https://avatars.githubusercontent.com/u/91717674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AnshHacks</b></sub><br> :computer: </a></td>
@@ -90,6 +90,8 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
     </tr>
       <td align="center"><a href="https://github.com/Finance-ASS"><img src="https://avatars.githubusercontent.com/u/114765106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Finance-ASS</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/yellowberard"><img src="https://avatars.githubusercontent.com/u/82977727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Goel</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/noobshubham"><img src="https://avatars.githubusercontent.com/u/55689986?v=4?s=100" width="100px;" alt=""/><br /><sub><b>noobshubham</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/Suraj-Bhandarkar-S"><img src="https://avatars.githubusercontent.com/u/42907076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suraj Bhandarkar S</b></sub><br> :computer: </a></td>
     <tr>
     </tr>
   </tbody>
