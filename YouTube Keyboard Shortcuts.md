@@ -20,3 +20,4 @@
 * Move to the next video ```Shift``` + ```N```
 * Move to the previous video ```Shift``` + ```P```
 * Open the Miniplayer ```I```
+* Rotate through different text opacity levels ```o```

@@ -18,3 +18,4 @@
 * Display and hide the desktop: ```Windows logo key``` ```🪟``` + ```D```
 * Record Screen: ```Windows logo key``` ```Alt``` + ```R```
 * GameBar: ```Windows logo key``` + ```G```
+* Split Windows Screen: ```Windows logo key``` + ```Left or Right Arrow Key```
