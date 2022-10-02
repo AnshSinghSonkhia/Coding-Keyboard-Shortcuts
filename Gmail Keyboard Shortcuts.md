@@ -24,3 +24,4 @@
 * Expand entire conversation 	```;```
 * Collapse entire conversation 	```:```
 * Add conversation to Tasks 	```Shift``` + ```t```
+* Add Cc Recipients to Your Email ```Ctrl``` + ```Shift``` + ```C```
