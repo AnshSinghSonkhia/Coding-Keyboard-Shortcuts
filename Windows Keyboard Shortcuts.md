@@ -18,3 +18,5 @@
 * Display and hide the desktop: ```Windows logo key``` ```🪟``` + ```D```
 * Record Screen: ```Windows logo key``` ```Alt``` + ```R```
 * GameBar: ```Windows logo key``` + ```G```
+* Action Center: ```Windows logo key``` ```🪟``` + ```A```
+* Open Search: ```Windows logo key``` ```🪟``` + ```S```
