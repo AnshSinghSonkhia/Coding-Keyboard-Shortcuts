@@ -93,8 +93,12 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
       <td align="center"><a href="https://github.com/yellowberard"><img src="https://avatars.githubusercontent.com/u/82977727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Goel</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/noobshubham"><img src="https://avatars.githubusercontent.com/u/55689986?v=4?s=100" width="100px;" alt=""/><br /><sub><b>noobshubham</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/Suraj-Bhandarkar-S"><img src="https://avatars.githubusercontent.com/u/42907076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suraj Bhandarkar S</b></sub><br> :computer: </a></td>
-    <td align="center"><a href="https://github.com/sam5epi0l"><img src="https://avatars.githubusercontent.com/u/68191144?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pradeep J.</b></sub><br> :computer: </a></td>
-    <td align="center"><a href="https://github.com/hoplite2000"><img src="https://avatars.githubusercontent.com/u/59353407?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nehal N Shet</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/sam5epi0l"><img src="https://avatars.githubusercontent.com/u/68191144?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pradeep J.</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/hoplite2000"><img src="https://avatars.githubusercontent.com/u/59353407?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nehal N Shet</b></sub><br> :computer: </a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/HarshKrishan"><img src="https://avatars.githubusercontent.com/u/88625534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HarshKrishan</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/rahulthakur19"><img src="https://avatars.githubusercontent.com/u/76059700?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RAHUL THAKUR</b></sub><br> :computer: </a></td>
     </tr>
   </tbody>
 </table>
