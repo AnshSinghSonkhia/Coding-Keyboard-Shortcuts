@@ -31,3 +31,4 @@
 * Turn extend mode on ``F8``
 * Activate the menu bar ``F10``
 * Turn extend mode off ``Esc``
+* Activate the thesaurus ``Shift + F8``
