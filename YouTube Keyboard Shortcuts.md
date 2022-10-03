@@ -31,3 +31,10 @@
 * Pan to the right: ```Press d```
 * Zoom in: ```Press the plus key on your number pad or press ]```
 * Zoom out: ```Press the minus key on your number pad or press [```
+
+## YouTube Subtitles and Captions Controls
+* Turn captions and subtitles on/off: Press c.
+* Change text brightness: Press o.
+* Change the transparency of caption backgrounds: Press w.
+* Decrease font size: Press the minus key.
+* Increase font size: Press the plus key.
