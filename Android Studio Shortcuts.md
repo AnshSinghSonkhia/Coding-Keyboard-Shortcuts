@@ -9,6 +9,7 @@
 - Comment / Uncomment with Block Comment ```Ctrl``` + ```Shift``` + ```/```
 - Duplicate A Line/Selected Part ```Ctrl``` + ```D```
 - Delete A Line/Selected Part ```Ctrl``` + ```Y```
+- Delete To End of a Word ```Ctrl``` + ```Delete```
 - Refractor Code ```Ctrl``` + ```F6```
 - Insert Live Template ```Ctrl``` + ```J```
 - Override Methods ```Ctrl``` + ```O```
@@ -16,6 +17,7 @@
 - Surround With… ```Ctrl``` + ```Alt``` + ```T```
 - Add Files to Git ```Ctrl``` + ```Alt``` + ```A```
 - Commit Files to Git ```Ctrl``` + ```K```
+- Jump to Declarations ```Ctrl``` + ```B```
 
 ✔ Run Keys
 
@@ -35,3 +37,6 @@
 * ```Ctrl``` + ```F8``` — Toggle break point
 * ```Ctrl``` + ```Shift``` + ```F8``` — View breakpoints
 
+✔ Navigation Keys
+
+* ```Ctrl + N``` — Navigate to Class 

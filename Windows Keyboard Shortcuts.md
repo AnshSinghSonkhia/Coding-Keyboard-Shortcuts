@@ -7,7 +7,6 @@
 * Undo  ```Ctrl``` + ```Z```
 * Redo  ```Ctrl``` + ```Y```
 * Save  ```Ctrl``` + ```S```
-* Open Task Manager  ```Ctrl``` + ```Shift``` + ```Esc```
 ---
 * Take Screenshot ```Windows logo key``` ```🪟``` + ```PrtScn```
 * Take Screenshot (for some devices) ```Fn``` + ```Windows logo key``` ```🪟``` + ```Space_Bar```
@@ -22,3 +21,5 @@
 * Action Center: ```Windows logo key``` ```🪟``` + ```A```
 * Open Search: ```Windows logo key``` ```🪟``` + ```S```
 * Split Windows Screen: ```Windows logo key``` ```🪟``` + ```Left or Right Arrow Key```
+* Emoji Keyboard: ```Windows logo key``` ```🪟``` + ```Period```
+* Open Task Manager  ```Ctrl``` + ```Shift``` + ```Esc```
