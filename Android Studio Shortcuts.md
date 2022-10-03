@@ -37,3 +37,6 @@
 * ```Ctrl``` + ```F8``` — Toggle break point
 * ```Ctrl``` + ```Shift``` + ```F8``` — View breakpoints
 
+✔ Navigation Keys
+
+* ```Ctrl + N``` — Navigate to Class 
