@@ -17,6 +17,7 @@
 - Surround With… ```Ctrl``` + ```Alt``` + ```T```
 - Add Files to Git ```Ctrl``` + ```Alt``` + ```A```
 - Commit Files to Git ```Ctrl``` + ```K```
+- Jump to Declarations ```Ctrl``` + ```B```
 
 ✔ Run Keys
 
