@@ -39,4 +39,3 @@
 ✔ Navigation Keys
 
 * ```Ctrl + N``` — Navigate to Class 
-* ```Ctrl + G``` — Jump to Line
