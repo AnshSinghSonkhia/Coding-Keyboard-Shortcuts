@@ -129,6 +129,8 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
 # More Beginner-Friendly Hacktoberfest 2022 Repositories:
 - [Futuristic CSS Animations](https://github.com/AnshSinghSonkhia/Futuristic-CSS-Animations)
 - [Coding Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts)
+- [40Pie Music Player Using HTML-CSS-JS](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website)
+
 
 ## Navigate To:
   * [Android Studio Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Android%20Studio%20Shortcuts.md)
