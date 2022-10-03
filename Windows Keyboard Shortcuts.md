@@ -50,4 +50,5 @@
 * Cycle through elements (tab, buttons, search bar, etc.) in a window or your desktop: ```F6```
 * Show login password on the start screen: ```Alt```+```F8```
 * Activate the menu bar in the active window: ```F10```
+* Clipboard History: ```Windows logo key``` ```🪟``` +```V```
 
