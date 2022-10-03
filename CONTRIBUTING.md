@@ -6,6 +6,7 @@ To qualify for the __Official limited edition Hacktoberfest 2022 tshirt__, you m
 > **Warning** <br>
 > * Only Add 1 Keyboard Shortcut Per Pull Request. <br>
 > * Don't Duplicate Shortcuts!
+> * OR Do what mentioned in the Issue. (If you're contributing specially for any issue.) 
 
 > **Note** <br>
 > You Only Need 4 Pull Request Accepted to Win Hacktoberfest Swags.
