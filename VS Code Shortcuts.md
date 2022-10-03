@@ -215,6 +215,7 @@
 
 ![9z09oof6f5oupytbnx18](https://user-images.githubusercontent.com/56017898/193541958-66a52413-5701-4d96-8f62-c026d851d5d8.gif)
 
+### Bonus useful tricks
 Windows: Ctrl+Space, Ctrl+Shift+Space Mac: CMD+Space, CMD+Shift+Space
 
 Trigger suggestions and parameter hints are useful when you are working on Visual Studio Code. However, this can be often frustrating as the suggestion box covers the previous code line. A simple way is to quickly show or remove trigger suggestions and trigger parameter hints through keyboard shortcuts.
