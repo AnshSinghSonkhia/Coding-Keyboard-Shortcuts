@@ -16,3 +16,4 @@
 - Ctrl + Scroll Up => Zoom in
 - Ctrl + Scroll Down => Zoom out
 - Ctrl + Enter => Place Cursor to new line
+- Ctrl + S => Save
