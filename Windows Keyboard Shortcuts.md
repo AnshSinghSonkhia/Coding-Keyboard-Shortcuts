@@ -7,6 +7,7 @@
 * Undo  ```Ctrl``` + ```Z```
 * Redo  ```Ctrl``` + ```Y```
 * Save  ```Ctrl``` + ```S```
+* Open Task Manager  ```Ctrl``` + ```Shift``` + ```Esc```
 ---
 * Take Screenshot ```Windows logo key``` ```🪟``` + ```PrtScn```
 * Take Screenshot (for some devices) ```Fn``` + ```Windows logo key``` ```🪟``` + ```Space_Bar```
