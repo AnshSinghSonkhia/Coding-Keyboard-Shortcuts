@@ -7,6 +7,7 @@
 * Undo  ```Ctrl``` + ```Z```
 * Redo  ```Ctrl``` + ```Y```
 * Save  ```Ctrl``` + ```S```
+* Center text ```Ctrl``` + ```E```
 
 
 ---
