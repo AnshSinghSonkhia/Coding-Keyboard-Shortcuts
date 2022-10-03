@@ -33,10 +33,15 @@
 | `Shift + Ctrl + Alt + R`|Take a screenshot of a window|
 | `Ctrl + PrtSc`|Screenshot to clipboard|
 | `Ctrl + Alt + PrtSc`|Screenshot of a window to clipboard|
-###Workspaces
+### Workspaces
 | Shortcut | Description|
 | ------------- | ------------------------------ |
 | `Shift + Ctrl + Alt + Left arrow`|Move window one workspace to the left|
 | `Shift + Ctrl + Alt + Right arrow`|Move window one workspace to the right|
 | `Shift + Ctrl + Alt + Up arrow`|Move window one workspace up|
 | `Shift + Ctrl + Alt + Down arrow`|Move window one workspace don|
+
+### Terminal
+| Shortcut | Description|
+| ------------- | ------------------------------ |
+| `Ctrl + L`|Clear Terminal|
