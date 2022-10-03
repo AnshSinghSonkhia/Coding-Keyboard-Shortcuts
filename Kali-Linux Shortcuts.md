@@ -20,6 +20,7 @@
 | `Ctrl + Z`|Undo|
 | `Ctrl + S`|Save|
 | `Ctrl + Q`|Quit|
+| `Ctrl + F11`|Maximize the current window|
 
 ### Screenshot
 | Shortcut | Description|
