@@ -32,4 +32,9 @@
     <td>Shift+F10 </td>
     <td>To Run / Execute Program.</td>
   </tr>
+   <tr>
+    <td>Find Usages</td>
+    <td>Alt+F7</td>
+    <td>Show all places where a code element is used across your project.</td>
+  </tr>
 </table>

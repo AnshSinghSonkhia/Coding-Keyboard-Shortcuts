@@ -29,7 +29,7 @@
 * Open Emoji Box: ```Windows logo key``` ```🪟```+```.```
 * Open Task Manager ```Ctrl```+```Shift```+```Esc```
 * Open Action Center: ```Windows logo key``` ```🪟```+ ```A```
-*  Open secret Start menu: ```Windows logo key``` ```🪟```+ ```X```
+* Open secret Start menu: ```Windows logo key``` ```🪟```+ ```X```
 * Cycling through the pin apps: ```Windows logo key``` ```🪟```+ ```T```
 * Open right-clicked menu of pin apps: ```Windows logo key``` ```🪟```+ ```Alt``` + ```Number```
 * Minimize all open Windows:  ```Windows logo key``` ```🪟```+ ```M```
@@ -49,14 +49,4 @@
 * Cycle through elements (tab, buttons, search bar, etc.) in a window or your desktop: ```F6```
 * Show login password on the start screen: ```Alt```+```F8```
 * Activate the menu bar in the active window: ```F10```
-
-
-
-
-
-
-
-
-
-
 

@@ -21,3 +21,13 @@
 * Move to the previous video ```Shift``` + ```P```
 * Open the Miniplayer ```I```
 * Rotate through different text opacity levels ```o```
+* Seek to the beginning/last seconds of the video ``` Home/End ```
+* Skip to the next video chapter ```Press Option + → ```
+
+## YouTube Spherical Video Controls (360 VR)
+* Pan upward: ```Press w```
+* Pan downward: ```Press s```
+* Pan to the left: ```Press a```
+* Pan to the right: ```Press d```
+* Zoom in: ```Press the plus key on your number pad or press ]```
+* Zoom out: ```Press the minus key on your number pad or press [```
