@@ -142,15 +142,6 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
   * [Microsoft Word Keyboard Shortcuts](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Microsoft%20Word%20Shortcuts.md)
   * [Keyboard Shortcuts for International Characters](https://github.com/AnshSinghSonkhia/Coding-Keyboard-Shortcuts/blob/main/Keyboard%20Shortcuts%20for%20International%20Characters.md)
 
-> Examples of some of the Keyboard Shortcuts at Official Site
-
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-in/HT201236)
-* [Windows 11 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_11)
-* [Windows 10 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
-* [Windows 8.1 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_8.1_&_Windows_8.1_RT)
-* [Windows 8.1 RT Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_8.1_&_Windows_8.1_RT)
-* [Windows 7 Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_7)
-
 
 <!--
 ## Thanks to all contributors ❤
