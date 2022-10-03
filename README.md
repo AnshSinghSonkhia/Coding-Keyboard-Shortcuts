@@ -83,10 +83,18 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
     <tr>
       <td align="center"><a href="https://github.com/iamvpbhaskar"><img src="https://avatars.githubusercontent.com/u/56016547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ved Prakash Bhaskar</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/yellowberard"><img src="https://avatars.githubusercontent.com/u/82977727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Goel</b></sub><br> :computer: </a></td>
-      <td align="center"><a href="https://github.com/CharuIsCoding"><img src="https://avatars.githubusercontent.com/u/91822081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CharuIsCoding</b></sub><br> :computer: </a></td>
-      <td align="center"><a href="https://github.com/AnshHacks"><img src="https://avatars.githubusercontent.com/u/91717674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AnshHacks</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/aneeshgupta25"><img src="https://avatars.githubusercontent.com/u/77202061?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aneesh Gupta</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/xcelr8"><img src="https://avatars.githubusercontent.com/u/19795313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xcelr8</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/amity7"><img src="https://avatars.githubusercontent.com/u/56017898?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amit Kumar</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/cygnu7"><img src="https://avatars.githubusercontent.com/u/44861895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cygnus Seven</b></sub><br> :computer: </a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Farhan-2222"><img src="https://avatars.githubusercontent.com/u/87274221?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Md Farhan Sajid</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/DhanushNehru"><img src="https://avatars.githubusercontent.com/u/22955675?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dhanush Nehru</b></sub><br> :computer: </a></td>
+     <td align="center"><a href="https://github.com/ishtails"><img src="https://avatars.githubusercontent.com/u/96720944?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kartikay Tiwari</b></sub><br> :computer: </a></td>
+     <td align="center"><a href="https://github.com/cyrilckurian"><img src="https://avatars.githubusercontent.com/u/74858827?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CYRIL C KURIAN</b></sub><br> :computer: </a></td>
+     <td align="center"><a href="https://github.com/kumaryogesh17"><img src="https://avatars.githubusercontent.com/u/82561880?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yogesh Kumar</b></sub><br> :computer: </a></td>
+     <td align="center"><a href="https://github.com/Sunainacode"><img src="https://avatars.githubusercontent.com/u/56354115?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sunaina Agarwal</b></sub><br> :computer: </a></td>-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Finance-ASS"><img src="https://avatars.githubusercontent.com/u/114765106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Finance-ASS</b></sub><br> :computer: </a></td>
@@ -101,6 +109,8 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
       <td align="center"><a href="https://github.com/rahulthakur19"><img src="https://avatars.githubusercontent.com/u/76059700?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RAHUL THAKUR</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/snikenbusper"><img src="https://avatars.githubusercontent.com/u/44520594?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sniken</b></sub><br> :computer: </a></td>
       <td align="center"><a href="https://github.com/anubhav047"><img src="https://avatars.githubusercontent.com/u/91625106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anubhav Goel</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/CharuIsCoding"><img src="https://avatars.githubusercontent.com/u/91822081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CharuIsCoding</b></sub><br> :computer: </a></td>
+      <td align="center"><a href="https://github.com/AnshHacks"><img src="https://avatars.githubusercontent.com/u/91717674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AnshHacks</b></sub><br> :computer: </a></td>
     </tr>
   </tbody>
 </table>
