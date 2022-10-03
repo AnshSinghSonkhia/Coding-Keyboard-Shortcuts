@@ -94,7 +94,7 @@ Thanks Goes To These Wonderful People ❤ <!--([emoji key](https://allcontributo
      <td align="center"><a href="https://github.com/ishtails"><img src="https://avatars.githubusercontent.com/u/96720944?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kartikay Tiwari</b></sub><br> :computer: </a></td>
      <td align="center"><a href="https://github.com/cyrilckurian"><img src="https://avatars.githubusercontent.com/u/74858827?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CYRIL C KURIAN</b></sub><br> :computer: </a></td>
      <td align="center"><a href="https://github.com/kumaryogesh17"><img src="https://avatars.githubusercontent.com/u/82561880?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yogesh Kumar</b></sub><br> :computer: </a></td>
-     <td align="center"><a href="https://github.com/Sunainacode"><img src="https://avatars.githubusercontent.com/u/56354115?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sunaina Agarwal</b></sub><br> :computer: </a></td>-->
+     <td align="center"><a href="https://github.com/Sunainacode"><img src="https://avatars.githubusercontent.com/u/56354115?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sunaina Agarwal</b></sub><br> :computer: </a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Finance-ASS"><img src="https://avatars.githubusercontent.com/u/114765106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Finance-ASS</b></sub><br> :computer: </a></td>
