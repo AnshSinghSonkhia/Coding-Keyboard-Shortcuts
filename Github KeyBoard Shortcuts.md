@@ -72,3 +72,6 @@
 • Ctrl+Shift+C :	Compare branches on GitHub
 
 • Ctrl+R :	Show the current pull request on GitHub
+
+• Ctrl+\  :   Focus your cursor on the issues or pull requests search bar
+
