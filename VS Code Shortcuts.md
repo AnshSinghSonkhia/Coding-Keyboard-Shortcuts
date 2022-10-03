@@ -4,6 +4,7 @@
 
 
 ✔ General
+* Global Find ```CTRL```+```SHIFT```+```F```
 * Show Command Palette ```Ctrl``` + ```Shift``` + ```P``` OR ```F1```
 * Quick Open, Go to File… ```Ctrl``` + ```P``` 
 * New window/instance ```Ctrl``` + ```Shift``` + ```N``` 
