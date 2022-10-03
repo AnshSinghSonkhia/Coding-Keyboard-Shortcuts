@@ -1,184 +1,509 @@
+
 # Keyboard shortcuts for Linux
 
-## General
+## General Linux Shortcuts
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="169"><strong>Ctrl + C</strong></td>
+<td width="397">Copy any highlighted text, image, or some other object to the clipboard.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + V</strong></td>
+<td width="397">Paste copied text, image, or some other object from the clipboard.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + X</strong></td>
+<td width="397">Cut highlighted text, image, or some other object.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + S</strong></td>
+<td width="397">Save the currently opened file.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + N</strong></td>
+<td width="397">Create a new file.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Z</strong></td>
+<td width="397">Undo the last action.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Q</strong></td>
+<td width="397">Quit the application in focus.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + F1 to F6</strong></td>
+<td width="397">Switch to a virtual console.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + F7</strong></td>
+<td width="397">Switch to the first graphical terminal.</td>
+</tr>
+</tbody>
+</table>
 
+## GNOME Keyboard Shortcuts
 
-| Command  | Description |
-| ----- | ------------- |
-| Ctrl+Shift+P, F1 | Show Command Palette |
-| Ctrl+P | Quick Open, Go to File... |
-| Ctrl+Shift+N | New window/instance |
-| Ctrl+W | Close window/instance |
-| Ctrl+, | User Settings | 
-| Ctrl+K Ctrl+S |Keyboard Shortcuts |
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="170"><strong>Super </strong></td>
+<td width="396">Enter the Activities Overview.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + Tab</strong></td>
+<td width="396">Cycle between running applications.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + Shift + Tab</strong></td>
+<td width="396">Cycle between running applications in the opposite direction.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + ` (grave accent)</strong></td>
+<td width="396">Cycle between windows of the same application in Alt + Tab.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + F1</strong></td>
+<td width="396">Open the Applications menu.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + F2</strong></td>
+<td width="396">Open a floating command prompt.</td>
+</tr>
+<tr>
+<td width="170"><strong>PrtSc</strong></td>
+<td width="396">Take a screenshot of the entire screen.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + PrtSc</strong></td>
+<td width="396">Take a screenshot of the window in focus.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + Alt + Arrow keys </strong></td>
+<td width="396">Switch between workspaces.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + Alt + D</strong></td>
+<td width="396">Minimize all windows to show desktop.</td>
+</tr>
+</tbody>
+</table>
 
-## Basic editing
+## KDE Keyboard Shortcuts
 
-| Command  | Description |
-| ----- | ------------- |
-| Ctrl+X | Cut line (empty selection) |
-| Ctrl+C | Copy line (empty selection) |
-| Alt+ ↓ / ↑ | Move line down/up | 
-| Ctrl+Shift+K | Delete line |
-| Ctrl+Enter / Ctrl+Shift+Enter | Insert line  below/above |
-|Ctrl+Shift+\ | Jump to matching bracket
-|Ctrl+] / Ctrl+[ |Indent/Outdent line
-|Home / End | Go to beginning/end of line
-|Ctrl+ Home / |End Go to beginning/end of file
-|Ctrl + ↑ / ↓| Scroll line up/down
-|Alt+ PgUp / PgDn| Scroll page up/down
-|Ctrl+Shift+ [ / ]| Fold/unfold region
-|Ctrl+K Ctrl+ [ / ]| Fold/unfold all subregions
-|Ctrl+K Ctrl+0 /Ctrl+K Ctrl+J |Fold/Unfold all regions |
-|Ctrl+K Ctrl+C | Add line comment |
-|Ctrl+K Ctrl+U | Remove line comment |
-|Ctrl+/ | Toggle line comment |
-|Ctrl+Shift+A | Toggle block comment |
-|Alt+Z | Toggle word wrap |
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="169"><strong>Super </strong></td>
+<td width="396">Open the Application Launcher.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Space</strong></td>
+<td width="396">Bing up the Command Interface.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Esc</strong></td>
+<td width="396">Open the System Activity utility.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + Alt + Arrow keys</strong></td>
+<td width="396">Switch between windows.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + F1 to F4</strong></td>
+<td width="396">Switch between virtual desktops.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + Tab </strong></td>
+<td width="396">Cycle between running applications.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + Shift + Tab</strong></td>
+<td width="396">Cycle between running applications in the opposite direction.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + L</strong></td>
+<td width="396">Lock the current session.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + Shift + Del</strong></td>
+<td width="396">Instantly log out without confirmation.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + Shift + Page Up</strong></td>
+<td width="396">Instantly reboot without confirmation.</td>
+</tr>
+</tbody>
+</table>
 
-## Rich languages editing
+## Xfce Keyboard Shortcuts
 
-| Command  | Description |
-| ----- | ------------- |
-|Ctrl+Space, Ctrl+I | Trigger suggestion |
-|Ctrl+Shift+Space | Trigger parameter hints |
-|Ctrl+Shift+I | Format document |
-|Ctrl+K Ctrl+F | Format selection |
-|F12 | Go to Definition |
-|Ctrl+Shift+F10 | Peek Definition |
-|Ctrl+K F12 | Open Definition to the side |
-|Ctrl+. | Quick Fix |
-|Shift+F12 | Show References |
-|F2 | Rename Symbol |
-|Ctrl+K Ctrl+X | Trim trailing whitespace |
-|Ctrl+K M | Change file language |
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="169"><strong>Super + P</strong></td>
+<td width="396">Open Xfce display settings.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + F2</strong></td>
+<td width="396">Open a command prompt.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + Arrow keys</strong></td>
+<td width="396">Move between virtual desktops.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Tab</strong></td>
+<td width="396">Cycle between running applications.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Shift + Tab</strong></td>
+<td width="396">Cycle between running applications in the opposite direction.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + F4</strong></td>
+<td width="396">Close the window in focus.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + F10 </strong></td>
+<td width="396">Maximize the window in focus.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + D</strong></td>
+<td width="396">Minimize all windows to show desktop.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + Del </strong></td>
+<td width="396">Lock the current session.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Esc</strong></td>
+<td width="396">Display context menu.</td>
+</tr>
+</tbody>
+</table>
 
-## Multi-cursor and selection
+## LXDE Keyboard Shortcuts
 
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="169"><strong>Ctrl + Alt + T</strong></td>
+<td width="396">Launch Terminal.</td>
+</tr>
+<tr>
+<td width="169"><strong>Shift + Alt + Arrow keys</strong></td>
+<td width="396">Move the window in focus between virtual desktops.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + Arrow keys</strong></td>
+<td width="396">Move between virtual desktops.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Tab</strong></td>
+<td width="396">Cycle between running applications.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Shift + Tab</strong></td>
+<td width="396">Cycle between running applications in the opposite direction.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + F4</strong></td>
+<td width="396">Close the window in focus.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Esc</strong></td>
+<td width="396">Hide the window in focus.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + D</strong></td>
+<td width="396">Minimize all windows to show desktop.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + E</strong></td>
+<td width="396">Launch the default file browser.</td>
+</tr>
+<tr>
+<td width="169"><strong>F11</strong></td>
+<td width="396">Toggle Fullscreen.</td>
+</tr>
+</tbody>
+</table>
 
-| Command  | Description |
-| ----- | ------------- |
-|Alt+Click |Insert cursor* |
-|Shift+Alt+ ↑ / ↓ | Insert cursor above/below |
-|Ctrl+U | Undo last cursor operation |
-|Shift+Alt+I | Insert cursor at end of each line selected |
-|Ctrl+L | Select current line |
-|Ctrl+Shift+L | Select all occurrences of current selection |
-|Ctrl+F2 | Select all occurrences of current word |
-|Shift+Alt + → | Expand selection |
-|Shift+Alt + ← | Shrink selection |
-|Shift+Alt + drag mouse | Column (box) selection |
+## Cinnamon Keyboard Shortcuts (Linux Mint)
 
-## Display
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="169"><strong>Ctrl + Alt + Down</strong></td>
+<td width="396">Show all currently running applications on the selected workspace.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + Up</strong></td>
+<td width="396">Show running applications across all workspaces.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Tab</strong></td>
+<td width="396">Cycle between running applications.</td>
+</tr>
+<tr>
+<td width="169"><strong>Shift + Alt + Tab.</strong></td>
+<td width="396">Cycle between running applications in the opposite direction.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + F2</strong></td>
+<td width="396">Open a command prompt.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + F4</strong></td>
+<td width="396">Close the window in focus.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + L</strong></td>
+<td width="396">Open the Cinnamon Debugger.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + D</strong></td>
+<td width="396">Minimize all windows to show desktop.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Super + Arrow keys</strong></td>
+<td width="396">Span the window in focus to a border.</td>
+</tr>
+<tr>
+<td width="169"><strong>Shift + Ctrl + Alt + Left or Right Arrow</strong></td>
+<td width="396">Move the window in focus to the workspace on the left or right.</td>
+</tr>
+</tbody>
+</table>
 
-| Command  | Description |
-| ----- | ------------- |
-| F11 | Toggle full screen |
-| Shift+Alt+0 | Toggle editor layout (horizontal/vertical) |
-| Ctrl+ = / - | Zoom in/out |
-| Ctrl+B | Toggle Sidebar visibility |
-| Ctrl+Shift+E | Show Explorer / Toggle focus |
-| Ctrl+Shift+F | Show Search |
-| Ctrl+Shift+G | Show Source Control |
-| Ctrl+Shift+D | Show Debug |
-| Ctrl+Shift+X | Show Extensions |
-| Ctrl+Shift+H | Replace in files |
-| Ctrl+Shift+J | Toggle Search details |
-| Ctrl+Shift+C | Open new command prompt/terminal |
-| Ctrl+K Ctrl+H | Show Output panel |
-| Ctrl+Shift+V | Open Markdown preview |
-| Ctrl+K V | Open Markdown preview to the side |
-| Ctrl+K Z | Zen Mode (Esc Esc to exit) |
+## Bash Keyboard Shortcuts
 
-## Search and replace
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="170"><strong>Ctrl + A</strong></td>
+<td width="396">Go to the beginning of the selected line.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + E</strong></td>
+<td width="396">Go to the end of the selected line.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + K</strong></td>
+<td width="396">Cut the part of the selected line after the cursor and copy it to the clipboard.</td>
+</tr>
+<tr>
+<td width="170"><strong>Arrow Up </strong></td>
+<td width="396">Previously used command.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + B</strong></td>
+<td width="396">Move the cursor back one word.</td>
+</tr>
+<tr>
+<td width="170"><strong>Alt + F</strong></td>
+<td width="396">Move the cursor forward one word.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + L</strong></td>
+<td width="396">Clean the current screen.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + J</strong></td>
+<td width="396">Enter the Newline control character.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + R</strong></td>
+<td width="396">Search in your Bash history.</td>
+</tr>
+<tr>
+<td width="170"><strong>Ctrl + G</strong></td>
+<td width="396">Exit the history searching mode.</td>
+</tr>
+</tbody>
+</table>
 
+## Ubuntu Keyboard Shortcuts
 
-| Command  | Description |
-| ----- | ------------- |
-|Ctrl+F |Find|
-|Ctrl+H | Replace|
-|F3 / Shift+F3| Find next/previous|
-|Alt+Enter | Select all occurrences of Find match|
-|Ctrl+D | Add selection to next Find match|
-|Ctrl+K Ctrl+D | Move last selection to next Find match|
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="169"><strong>Super</strong></td>
+<td width="396">Open Activities.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + F2</strong></td>
+<td width="396">Open a command prompt.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + Tab</strong></td>
+<td width="396">Cycle between running applications.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + Arrow keys</strong></td>
+<td width="396">Snap the window in focus to a border.</td>
+</tr>
+<tr>
+<td width="169"><strong>PrtSc</strong></td>
+<td width="396">Take a screenshot of the entire screen.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + PrtSc</strong></td>
+<td width="396">Take a screenshot of the window in focus.</td>
+</tr>
+<tr>
+<td width="169"><strong>Shift + PrtSc</strong></td>
+<td width="396">Take a screenshot of a selected area on the screen.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt + T</strong></td>
+<td width="396">Launch Terminal.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + L</strong></td>
+<td width="396">Lock the current session.</td>
+</tr>
+<tr>
+<td width="169"><strong>Super + D</strong></td>
+<td width="396">Minimize all windows to show desktop.</td>
+</tr>
+</tbody>
+</table>
 
-## Navigation
+## Firefox Keyboard Shortcuts
 
-| Command  | Description |
-| ----- | ------------- |
-|Ctrl+T | Show all Symbols|
-|Ctrl+G | Go to Line...|
-|Ctrl+P | Go to File...|
-|Ctrl+Shift+O | Go to Symbol...|
-|Ctrl+Shift+M | Show Problems panel|
-|F8 | Go to next error or warning|
-|Shift+F8 | Go to previous error or warning|
-|Ctrl+Shift+Tab | Navigate editor group history|
-|Ctrl+Alt+- | Go back|
-|Ctrl+Shift+- | Go forward|
-|Ctrl+M | Toggle Tab moves focus|
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="171"><strong>Backspace</strong></td>
+<td width="394">Go back.</td>
+</tr>
+<tr>
+<td width="171"><strong>F5 or Ctrl + R</strong></td>
+<td width="394">Reload the current page.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + P </strong></td>
+<td width="394">Print the current page.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + S </strong></td>
+<td width="394">Save the current page.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + F </strong></td>
+<td width="394">Find text on the current page.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + K</strong></td>
+<td width="394">Bring the search bar into focus.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + W</strong></td>
+<td width="394">Close the current tab.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + N</strong></td>
+<td width="394">Open a new tab.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + Shift + P</strong></td>
+<td width="394">Open a new private window.</td>
+</tr>
+<tr>
+<td width="171"><strong>Ctrl + Shift + Q</strong></td>
+<td width="394">Exit Firefox.</td>
+</tr>
+</tbody>
+</table>
 
-## Editor management
+## ChromeOS Keyboard Shortcuts (Chromebook)
 
-| Command  | Description |
-| ----- | ------------- |
-|Ctrl+W |  Close editor|
-|Ctrl+K F |  Close folder|
-|Ctrl+\ | Split editor|
-|Ctrl+ 1 / 2 / 3 | Focus into 1 st, 2nd, 3rd editor group|
-|Ctrl+K Ctrl + ← | Focus into previous editor group|
-|Ctrl+K Ctrl + → | Focus into next editor group|
-|Ctrl+Shift+PgUp | Move editor left|
-|Ctrl+Shift+PgDn | Move editor right|
-|Ctrl+K ← | Move active editor group left/up|
-|Ctrl+K → | Move active editor group right/down|
-
-## File management
-
-| Command  | Description |
-| ----- | ------------- |
-|Ctrl+N |New File|
-|Ctrl+O |Open File...|
-|Ctrl+S | Save|
-|Ctrl+Shift+S | Save As...|
-|Ctrl+W | Close|
-|Ctrl+K Ctrl+W | Close All|
-|Ctrl+Shift+T | Reopen closed editor|
-|Ctrl+K | Enter Keep preview mode editor open|
-|Ctrl+Tab | Open next|
-|Ctrl+Shift+Tab |Open previous|
-|Ctrl+K P | Copy path of active file|
-|Ctrl+K R | Reveal active file in Explorer|
-|Ctrl+K O | Show active file in new window/instance|
-## Debug
-
-
-| Command  | Description |
-| ----- | ------------- |
-|F9 |Toggle breakpoint|
-|F5 | Start / Continue|
-|F11 / Shift+F11 | Step into/out|
-|F10 | Step over|
-|Shift+F5 | Stop|
-|Ctrl+K Ctrl+I | Show hover|
-
-## Integrated terminal
-
-| Command  | Description |
-| ----- | ------------- |
-|Ctrl+` | Show integrated terminal|
-|Ctrl+Shift+` | Create new terminal|
-|Ctrl+Shift+C | Copy selection|
-|Ctrl+Shift+V | Paste into active terminal|
-|Ctrl+Shift+ ↑ / ↓ | Scroll up/down|
-|Shift+ PgUp / PgDn | Scroll page up/down|
-|Shift+ Home / End | Scroll to top/bottom|
-
-
-<h2>Note</h2>
-<hr>
-
-* The Alt+Click gesture may not work on some Linux distributions.
-* You can change the modifier key for the Insert cursor command to Ctrl+Click with the “editor.multiCursorModifier” setting.
-
-
+<table>
+<thead>
+<tr>
+<td><strong>Command</strong></td><td><Strong>Description</Strong></td>
+</tr></thead>
+<tbody>
+<tr>
+<td width="169"><strong>Ctrl + Shift + L</strong></td>
+<td width="397">Lock the current session.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Shift + Q</strong></td>
+<td width="397">Log out from the current session.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + 1 to 8</strong></td>
+<td width="397">Launch an application from the taskbar.</td>
+</tr>
+<tr>
+<td width="169"><strong>Alt + [ or ]</strong></td>
+<td width="397">Dock the window in focus to the left or right side of the screen.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + F5 </strong></td>
+<td width="397">Take a screenshot of the entire screen.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Shift + F5</strong></td>
+<td width="397">Take a screenshot of a selected area on the screen.</td>
+</tr>
+<tr>
+<td width="169"><strong>Shift + Alt + M</strong></td>
+<td width="397">Open the Files app.</td>
+</tr>
+<tr>
+<td width="169"><strong>Shift + Alt + N</strong></td>
+<td width="397">Display notifications.</td>
+</tr>
+<tr>
+<td width="169"><strong>Ctrl + Alt +</strong></td>
+<td width="397">Display all keyboard shortcuts.</td>
+</tr>
+<tr>
+<td width="169"><strong>Shift + Esc</strong></td>
+<td width="397">Open the Task Manager.</td>
+</tr>
+</tbody>
+</table>
+</div>
+	</div>
