@@ -40,3 +40,4 @@
 ✔ Navigation Keys
 
 * ```Ctrl + N``` — Navigate to Class 
+* ```Ctlr``` + ```Alt``` + ```S``` - Navigate to Settings
