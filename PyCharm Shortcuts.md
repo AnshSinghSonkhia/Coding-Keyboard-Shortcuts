@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>Comment Out</td>
-    <td>Ctrl + Shift </td>
+    <td>Ctrl + Shift + / </td>
     <td>To Comment out a line or block of code</td>
   </tr>
   <tr>
