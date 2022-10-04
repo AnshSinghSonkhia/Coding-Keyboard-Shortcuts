@@ -9,3 +9,4 @@ Google Chrome Shortcuts --->
 - Close Current Tab: ``Ctrl+W``
 - Open A New Incognito Window - ``Ctrl + Shift + N``
 - Open the home page in the current tab - ``Alt + Home``
+- Change Tabs - ``Ctrl + Tab``
