@@ -43,4 +43,10 @@
     <td>Crtl+Shift+F10</td>
     <td>Creates a new configuration and runs the current file on screen.</td>
   </tr>
+  
+  <tr>
+    <td>Search Everywhere</td>
+    <td>Double Shift</td>
+    <td>Quickly find any file, action, class, symbol, tool window, or setting in PyCharm, in your project, and in the current Git repository..</td>
+  </tr>
 </table>
