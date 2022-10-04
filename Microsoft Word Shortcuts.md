@@ -32,3 +32,4 @@
 * Activate the menu bar ``F10``
 * Turn extend mode off ``Esc``
 * Activate the thesaurus ``Shift + F8``
+* Open the Styles Pane ```Ctrl```+```Alt```+```Shift```+```S```
