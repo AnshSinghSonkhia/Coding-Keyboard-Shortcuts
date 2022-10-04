@@ -45,3 +45,4 @@
 | Shortcut | Description|
 | ------------- | ------------------------------ |
 | `Ctrl + L`|Clear Terminal|
+| `Ctrl + Alt + T`| Open a new command line Terminal.
