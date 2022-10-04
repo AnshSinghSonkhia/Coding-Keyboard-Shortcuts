@@ -37,4 +37,10 @@
     <td>Alt+F7</td>
     <td>Show all places where a code element is used across your project.</td>
   </tr>
+  
+   <tr>
+    <td>Make Configuration and Run</td>
+    <td>Crtl+Shift+F10</td>
+    <td>Creates a new configuration and runs the current file on screen.</td>
+  </tr>
 </table>
