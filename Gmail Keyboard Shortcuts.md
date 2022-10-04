@@ -1,4 +1,5 @@
 ## ➤ Gmail Keyboard Shortcuts   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+* Compose new Email ```C```
 * Move focus to toolbar 	```,```
 * Select conversation 	```x```
 * Toggle star/rotate among superstars 	```s```
