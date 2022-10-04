@@ -19,4 +19,5 @@
 * ```ctrl+]``` Move to current code block end
 * ```Ctrl+Space``` Basic code completion (the name of any class, method or variable)
 * ```Ctrl+F``` Find in the current file
+* ```Ctrl+D``` Duplicate current line or selected block
 
