@@ -12,6 +12,10 @@
 * Italicize highlighted section  ```Ctrl``` + ```I```
 * Justify paragraph  ```Ctrl``` + ```J```
 * Insert hyperlink   ```Ctrl``` + ```K```
+* Underline highlighted section   ```Ctrl``` + ```U```
+* Aligns the line or selected text to the left of the screen  ```Ctrl``` + ```L```
+* Aligns the line or selected text to the center of the screen  ```Ctrl``` + ```E```
+* Aligns the line or selected text to the right of the screen  ```Ctrl``` + ```R```
 * Example  ```Ctrl``` + ```S```
 * Changes text to heading 3 ``Ctrl + Alt + 3``
 * Open Help ``F1``
