@@ -11,6 +11,7 @@
 * Close window/instance ```Ctrl``` + ```Shift``` + ```W``` 
 * User Settings ```Ctrl``` + ```,``` 
 * Keyboard Shortcuts ```Ctrl``` + ```K``` OR ```Ctrl``` + ```S``` 
+* Open Recent folders of VS Code ```Ctrl``` + ```R```
 
 
 ✔ Basic Editing
