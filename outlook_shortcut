@@ -1,243 +1,241 @@
-Close a window or a menu.
+# Shortcuts
 
-Esc
+### Close a window or a menu:
 
-Go to the Home tab.
+* Esc
 
-Alt+H
+### Go to the Home tab:
 
-Create a new message.
+* Alt+H
 
-Ctrl+Shift+M
+### Create a new message:
 
-Send a message.
+* Ctrl+Shift+M
 
-Alt+S
+### Send a message:
 
-Insert a file.
+* Alt+S
 
-Alt+N, A, F
+### Insert a file:
 
-New task
+* Alt+N, A, F
 
-Ctrl+Shift+K
+### New task:
 
-Delete an item (when a message, task, or meeting is selected).
+* Ctrl+Shift+K
 
-Delete
+### Delete an item (when a message, task, or meeting is selected):
 
-Search for an item.
+* Delete
 
-Ctrl+E or F3
+### Search for an item:
 
-Reply to a message.
+* Ctrl+E or F3
 
-Alt+H, R, P
+### Reply to a message:
 
-Forward a message.
+* Alt+H, R, P
 
-Alt+H, F, W
+### Forward a message:
 
-Select the Reply All option.
+* Alt+H, F, W
 
-Alt+H, R, A
+### Select the Reply All option:
 
-Copy an item.
+* Alt+H, R, A
 
-Ctrl+C or Ctrl+Insert
+### Copy an item:
+
+* Ctrl+C or Ctrl+Insert
 
 Note: Ctrl+Insert is not available in the Reading pane.
 
-Go to the Send/Receive tab.
+### Go to the Send/Receive tab:
 
-Alt+J, S
+* Alt+J, S
 
-Go to Calendar.
+### Go to Calendar:
 
-Ctrl+2
+* Ctrl+2
 
-Create an appointment.
+### Create an appointment:
 
-Ctrl+Shift+A
+* Ctrl+Shift+A
 
-Move an item to a folder.
+### Move an item to a folder:
 
-Alt+H, M, V, and select a folder from the list
+* Alt+H, M, V, and select a folder from the list
 
-Open the Save As dialog box on the Attachment tab.
+### Open the Save As dialog box on the Attachment tab:
 
-Alt+J, A, 2, A, V
+* Alt+J, A, 2, A, V
 
-Check for new messages.
+### Check for new messages:
 
-Ctrl+M or F9
+* Ctrl+M or F9
 
-Top of Page
+### Top of Page:
 
-Shortcuts for basic navigation
-To do this
+### Shortcuts for basic navigation to do this Press
 
-Press
+### Switch to the Mail view.
 
-Switch to the Mail view.
+* Ctrl+1
 
-Ctrl+1
+### Switch to the Calendar view.
 
-Switch to the Calendar view.
+* Ctrl+2
 
-Ctrl+2
+### Switch to the Contacts view.
 
-Switch to the Contacts view.
+* Ctrl+3
 
-Ctrl+3
+### Switch to the Tasks view.
 
-Switch to the Tasks view.
+* Ctrl+4
 
-Ctrl+4
+### Switch to the Notes.
 
-Switch to the Notes.
+* Ctrl+5
 
-Ctrl+5
+### Switch to the Folder list in the Folder pane.
 
-Switch to the Folder list in the Folder pane.
+* Ctrl+6
 
-Ctrl+6
+### Switch to Shortcuts.
 
-Switch to Shortcuts.
+* Ctrl+7
 
-Ctrl+7
+### Open Journal.
 
-Open Journal.
+* Ctrl+8
 
-Ctrl+8
+### Open the Address Book.
 
-Open the Address Book.
+* Ctrl+Shift+B
 
-Ctrl+Shift+B
+### Go back to previous view.
 
-Go back to previous view.
+* Alt+B or Alt+Left arrow key
 
-Alt+B or Alt+Left arrow key
+### Go forward to next view.
 
-Go forward to next view.
+* Alt+Right arrow key
 
-Alt+Right arrow key
+### Switch to next open message.
 
-Switch to next open message.
+* Ctrl+Period (.)
 
-Ctrl+Period (.)
+### Switch to previous open message.
 
-Switch to previous open message.
+* Ctrl+Comma (,)
 
-Ctrl+Comma (,)
+### Move between the Folder pane, the main Outlook window, the Reading pane, and the To-Do bar.
 
-Move between the Folder pane, the main Outlook window, the Reading pane, and the To-Do bar.
+* Ctrl+Shift+Tab key or Shift+Tab key
 
-Ctrl+Shift+Tab key or Shift+Tab key
+### Move between the Outlook window, the smaller panes in the Folder pane, the Reading pane, and the sections in the To-Do bar.
 
-Move between the Outlook window, the smaller panes in the Folder pane, the Reading pane, and the sections in the To-Do bar.
+* Tab key or F6
 
-Tab key or F6
+### Move between the ribbon and the calendar.
 
-Move between the ribbon and the calendar.
+* F6
 
-F6
+### Show the access keys in the ribbon.
 
-Show the access keys in the ribbon.
+* Alt or F6
 
-Alt or F6
+### Show the tooltip for the ribbon element currently in focus.
 
-Show the tooltip for the ribbon element currently in focus.
+* Ctrl+Shift+F10
 
-Ctrl+Shift+F10
+### Open split buttons.
 
-Open split buttons.
+* Alt+Down arrow key
 
-Alt+Down arrow key
+### Move around message header lines in the Folder pane or an open message.
 
-Move around message header lines in the Folder pane or an open message.
+* Ctrl+Tab
 
-Ctrl+Tab
+### Move between the Navigation pane and the calendar.
 
-Move between the Navigation pane and the calendar.
+* Ctrl+Tab
 
-Ctrl+Tab
+### Move around within the Folder pane.
 
-Move around within the Folder pane.
+* Arrow keys
 
-Arrow keys
+### Go to a different folder.
 
-Go to a different folder.
+* Ctrl+Y
 
-Ctrl+Y
+### Go to the Search box.
 
-Go to the Search box.
+* F3 or Ctrl+E
 
-F3 or Ctrl+E
+### In the Reading pane, go to the previous message.
 
-In the Reading pane, go to the previous message.
+* Alt+Up arrow key or Ctrl+Comma (,), or Alt+Page Up
 
-Alt+Up arrow key or Ctrl+Comma (,), or Alt+Page Up
+### In the Reading pane, page down through the text.
 
-In the Reading pane, page down through the text.
+* Spacebar
 
-Spacebar
+### In the Reading pane, page up through the text.
 
-In the Reading pane, page up through the text.
+* Shift+Spacebar
 
-Shift+Spacebar
+### Collapse or expand a group in the email message list.
 
-Collapse or expand a group in the email message list.
+* Left or Right arrow key, respectively
 
-Left or Right arrow key, respectively
+### Go back to previous view in the main Outlook window.
 
-Go back to previous view in the main Outlook window.
+* Alt+B or Alt+Left arrow key
 
-Alt+B or Alt+Left arrow key
+### Go forward to next view in the main Outlook window.
 
-Go forward to next view in the main Outlook window.
+* Alt+Right arrow key
 
-Alt+Right arrow key
+### Select the InfoBar and, if available, show the menu of commands.
 
-Select the InfoBar and, if available, show the menu of commands.
+* Ctrl+Shift+W
 
-Ctrl+Shift+W
+### Show the To-Do bar (peek).
 
-Show the To-Do bar (peek).
+* Alt+V, B, and then C for Calendar, P for People, T for Tasks, or O for Off
 
-Alt+V, B, and then C for Calendar, P for People, T for Tasks, or O for Off
+### Top of Page
 
-Top of Page
+### Navigate to the ribbon to do this
 
-Navigate to the ribbon
-To do this
+### Press
 
-Press
+### Open the Home tab.
 
-Open the Home tab.
+* Alt+H
 
-Alt+H
+### Open the File menu.
 
-Open the File menu.
+* Alt+F
 
-Alt+F
+### Open the Send/Receive tab.
 
-Open the Send/Receive tab.
+* Alt+J, S
 
-Alt+J, S
+### Open the Folder tab.
 
-Open the Folder tab.
+* Alt+O
 
-Alt+O
+### Open the View tab.
 
-Open the View tab.
+* Alt+V
 
-Alt+V
+### Open the Search tab.
 
-Open the Search tab.
+* Ctrl+E
 
-Ctrl+E
+### Go to the Tell Me search field.
 
-Go to the Tell Me search field.
-
-Alt+Q
+* Alt+Q
