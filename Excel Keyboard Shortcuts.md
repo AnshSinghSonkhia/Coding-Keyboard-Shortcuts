@@ -56,3 +56,10 @@
 * To group rows or columns ```Alt + Shift + Right arrow```
 * To ungroup rows or columns ```Alt + Shift + Left arrow```
 
+### Pivot Table Shortcut Keys
+
+* To group pivot table items ```Alt + Shift + Right arrow```
+* To ungroup pivot table items ```Alt + Shift + Left arrow```
+* To hide pivot table items ```Ctrl + -```
+* To create a pivot chart on the same sheet ```Alt + F1```
+* To create a pivot chart on a new worksheet ```F11```
