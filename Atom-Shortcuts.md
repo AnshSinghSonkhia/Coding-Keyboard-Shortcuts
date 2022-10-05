@@ -16,6 +16,7 @@ This file contains some shortcuts which can be very useful while working in atom
 | Grammar Selector        | Ctrl + shift + l |
 | Markdown Preview        | Ctrl + shift + m |
 | Toggle tree view        | Ctrl + \         |
+| Toggle focus tree view  | Alt + \          |
 | Reload Atom             | Alt + Ctrl + r   |
 | Toggle Developer Tools  | Ctrl + alt + i   |
 | Show Available Snippets | Alt + shift + s  |
@@ -51,6 +52,7 @@ This file contains some shortcuts which can be very useful while working in atom
 | Grammar Selector        | Ctrl + shift + l     |
 | Markdown Preview        | Ctrl + shift + m     |
 | Toggle tree view        | Cmd + \              |
+| Toggle focus tree view  | Option + \           |
 | Reload Atom             | Alt + Ctrl + Cmd + l |
 | Toggle Developer Tools  | Cmd + alt + i        |
 | Show Available Snippets | Alt + shift + s      |
@@ -73,3 +75,9 @@ This file contains some shortcuts which can be very useful while working in atom
 | Cut                     | Cmd + x              |
 | Paste                   | Cmd + v              |
 | Select All              | Cmd + A              |
+
+## For linux user:
+| Task                    | Shortcut             |
+| ----------------------- | -------------------- |
+| Toggle tree view        | Ctrl + K, then B     |
+| Toggle focus tree view  | Ctrl + 0             |
