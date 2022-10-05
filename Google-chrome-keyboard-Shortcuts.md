@@ -11,3 +11,4 @@ Google Chrome Shortcuts --->
 - Open the home page in the current tab - ``Alt + Home``
 - Change Tabs - ``Ctrl + Tab``
 - Open a New Window - ``Ctrl + N``
+- Review Last open Tabs - ``Hold Back Button <- to See History``
