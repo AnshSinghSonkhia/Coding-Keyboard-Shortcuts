@@ -1,68 +1,31 @@
-Close a window or a menu.
+# About:
+This file contains some shortcuts which can be very useful while working in MS outlook. :)
 
-Esc
 
-Go to the Home tab.
 
-Alt+H
+# Shortcuts:
 
-Create a new message.
+| Task                    | Shortcut         |
+| ----------------------- | ---------------- |
+| Close a window or menu  | Esc              |
+| Go to Home tab          | Alt + H          |
+| Send a message          | Alt + S          |
+| Insert a File           | Alt + N, A, F    |
+| New Task                | Ctrl + Shift + K |
+| Delete an item          | Delete           |
+| Search item             | Ctrl + E or F3   |
+| Reply to message        | Alt + H, R, P    |
+| Forward a message       | Alt + H, F, W    |
+| Select Reply All        | Alt + H, R, A    |
+| Copy Item               | Ctrl + C         |
+| Go to Send/Receive Tab  | Alt + J, S       |
+| Go to Calendar          | Ctrl + 2         |
+| Create Appointment      | Ctrl + Shift + A |
+| Move Item to Folder     | Alt + H, M, V, and select a folder |
 
-Ctrl+Shift+M
 
-Send a message.
 
-Alt+S
 
-Insert a file.
-
-Alt+N, A, F
-
-New task
-
-Ctrl+Shift+K
-
-Delete an item (when a message, task, or meeting is selected).
-
-Delete
-
-Search for an item.
-
-Ctrl+E or F3
-
-Reply to a message.
-
-Alt+H, R, P
-
-Forward a message.
-
-Alt+H, F, W
-
-Select the Reply All option.
-
-Alt+H, R, A
-
-Copy an item.
-
-Ctrl+C or Ctrl+Insert
-
-Note: Ctrl+Insert is not available in the Reading pane.
-
-Go to the Send/Receive tab.
-
-Alt+J, S
-
-Go to Calendar.
-
-Ctrl+2
-
-Create an appointment.
-
-Ctrl+Shift+A
-
-Move an item to a folder.
-
-Alt+H, M, V, and select a folder from the list
 
 Open the Save As dialog box on the Attachment tab.
 
