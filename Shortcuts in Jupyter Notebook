@@ -1,25 +1,27 @@
-Shift + Enter == run the current cell, select below
-Ctrl + Enter == run selected cells
-Alt + Enter == run the current cell, insert below
-Ctrl + S == save and checkpoint
+## ➤ Jupyter Notebook Shortcuts
 
-While in command mode (press Esc to activate):
+* ```Shift``` + ```Enter``` ==> run the current cell, select below
+* ```Ctrl``` + ```Enter``` ==> run selected cells
+* ```Alt``` + ```Enter``` ==> run the current cell, insert below
+* ```Ctrl``` + ```S``` ==> save and checkpoint
 
-Enter take you into edit mode
-H == show all shortcuts
-Up == select cell above
-Down == select cell below
-Shift + Up == extend selected cells above
-Shift + Down == extend selected cells below
-A == insert cell above
-B == insert cell below
-X == cut selected cells
-C == copy selected cells
-V == paste cells below
-Shift + V == paste cells above
-D, D (press the key twice) == delete selected cells
-Z == undo cell deletion
-S == Save and Checkpoint
-Y == change the cell type to Code
-M == change the cell type to Markdown
-P == open the command palette.
+___
+* ### While in command mode (press Esc to activate):
+* ```Enter``` ==> enter edit mode
+* ```H``` ==> show all shortcuts
+* ```Up``` ==> select cell above
+* ```Down``` ==> select cell below
+* ```Shift``` + ```Up``` ==> extend selected cells above
+* ```Shift``` + ```Down``` ==> extend selected cells below
+* ```A``` ==> insert cell above
+* ```B``` ==> insert cell below
+* ```X``` ==> cut selected cells
+* ```C``` ==> copy selected cells
+* ```V``` ==> paste cells below
+* ```Shift``` + ```V``` ==> paste cells above
+* Press ```D``` Twice ==> delete selected cells
+* ```Z``` ==> undo cell deletion
+* ```S``` ==> Save and Checkpoint
+* ```Y``` ==> change the cell type to Code
+* ```M``` ==> change the cell type to Markdown
+* ```P``` ==> open the command palette.
