@@ -5,8 +5,8 @@
 * Seek forward 10 seconds in player ```L```
 * While the video is paused, skip to the next frame ```.```
 * While the video is paused, go back to the previous frame ```,```
-* Speed up the video playback rate ```>```
-* Slow down the video playback rate ```<```
+* Speed up the video playback rate ```Shift``` + ```>``` or ```Shift``` + ```.```
+* Slow down the video playback rate ```Shift``` + ```<``` or ```Shift``` + ```,```
 * Increase volume 5% ```↑```
 * Decrease volume 5% ```↓```
 * Seek to the 10% to 90% of the video ```1``` ... ```9```
@@ -22,19 +22,15 @@
 * Open the Miniplayer ```I```
 * Rotate through different text opacity levels ```o```
 * Seek to the beginning/last seconds of the video ``` Home/End ```
-* Skip to the next video chapter ```Press Option + → ```
+* Skip to the next video chapter ```Option``` + ```→ ```
+* Control buttons on the player ```tab```
+* Rotate through different window opacity levels ```w```
+
 
 ## YouTube Spherical Video Controls (360 VR)
 * Pan upward: ```Press w```
 * Pan downward: ```Press s```
 * Pan to the left: ```Press a```
 * Pan to the right: ```Press d```
-* Zoom in: ```Press the plus key on your number pad or press ]```
+* Zoom in: ```Press the plus key on your number pad or press ]``` 
 * Zoom out: ```Press the minus key on your number pad or press [```
-
-## YouTube Subtitles and Captions Controls
-* Turn captions and subtitles on/off: Press c.
-* Change text brightness: Press o.
-* Change the transparency of caption backgrounds: Press w.
-* Decrease font size: Press the minus key.
-* Increase font size: Press the plus key.
