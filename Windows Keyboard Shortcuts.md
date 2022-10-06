@@ -39,8 +39,9 @@
 * Zoom in and out with magnifier: ```Windows logo key``` ```🪟```+ ```+```or```-```
 * Open Ease of Access center: ```Windows logo key``` ```🪟```+ ```U```
 * Delete selected item permanently: ```Shift```+```Delete```
-* Close Current App or Window ```Alt``` + ```F4```
-* Close current task ```Esc```
+* Close Current App or Window: ```Alt``` + ```F4```
+* Close current task: ```Esc```
+* Open Feedback Hub: ```Windows logo key``` ```🪟```+ ```F```
 
 ---
 ### Function Keys
