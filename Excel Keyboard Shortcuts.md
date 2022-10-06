@@ -12,6 +12,7 @@
 * To go to the Data tab ```Alt``` + ```A```
 * To go to the View tab ```Alt``` + ```W```
 * To go the Formula tab ```Alt``` + ```M```
+*To select all the contents in a workbook```Ctrl`` + ```A```
 
 
 ### Cell Formatting Shortcut Keys
@@ -57,7 +58,7 @@
 * To ungroup rows or columns ```Alt + Shift + Left arrow```
 
 ### Pivot Table Shortcut Keys
-
+*To open the create table dialog box```Ctrl + L```
 * To group pivot table items ```Alt + Shift + Right arrow```
 * To ungroup pivot table items ```Alt + Shift + Left arrow```
 * To hide pivot table items ```Ctrl + -```
