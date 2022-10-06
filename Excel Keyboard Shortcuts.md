@@ -12,8 +12,8 @@
 * To go to the Data tab ```Alt``` + ```A```
 * To go to the View tab ```Alt``` + ```W```
 * To go the Formula tab ```Alt``` + ```M```
-*To select all the contents in a workbook```Ctrl`` + ```A```
-
+* To select all the contents in a workbook ```Ctrl``` + ```A```
+* To print the current view ```Ctrl``` + ```P```
 
 ### Cell Formatting Shortcut Keys
 
