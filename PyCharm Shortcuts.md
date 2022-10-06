@@ -45,6 +45,12 @@
   </tr>
   
   <tr>
+    <td>Close current file</td>
+    <td>Crtl+F4</td>
+    <td>Closes currently open file in editor.</td>
+  </tr>
+  
+  <tr>
     <td>Search Everywhere</td>
     <td>Double Shift</td>
     <td>Quickly find any file, action, class, symbol, tool window, or setting in PyCharm, in your project, and in the current Git repository..</td>
