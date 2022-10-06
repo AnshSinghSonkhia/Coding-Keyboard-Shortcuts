@@ -1,0 +1,93 @@
+Ctrl + Shift + M	Open/compose new message
+Ctrl + S	Save as draft
+Alt + S	Send a message
+Ctrl + O	Open received message
+Ctrl + A	Select all emails
+Ctrl + D	Delete email
+Ctrl + Q	Mark message as read
+Ctrl + U	Mark message as unread
+Ctrl + Alt + J	Mark message as not junk
+Ctrl + R	Reply to a message
+Ctrl + Alt + R	Reply with a meeting request
+Ctrl + Shift + R	Reply to all
+Ctrl + F	Forward a message
+Ctrl + Shift + G	Flag a message
+Alt+N, A, F	Insert a file
+Ctrl + K	Check names
+F12	Save as
+F7	Spellcheck message
+F3 or Ctrl + E	Search
+F9 or Ctrl + M	Refresh/check for new email
+Search
+While you can always use the basic search command noted above, you can also specify where you want Outlook to search.
+
+COMMAND	ACTION
+Alt + Q	Search in Outlook:
+Ctrl + Alt +K	Search the current folder:
+Ctrl + Alt + Z	Search subfolders:
+Ctrl + Alt + A	Search all folders:
+Ctrl+ Shift + F	Open Advanced Search:
+F11	Find a contact
+Basic navigation
+Outlook’s robust features mean you probably spend considerable time moving back and forth among its views. Speed that up with these commands.
+
+COMMAND	ACTION
+Ctrl + ,	Navigate to previous message
+Ctrl + .	Navigate to next message
+Ctrl + 1	Switch to Mail
+Ctrl + 2	Switch to Calendar
+Ctrl + 3	Switch to Contacts
+Ctrl + 4	Switch to Tasks
+Ctrl + 5	Switch to Notes
+Ctrl + 6	Switch to Folder List in the Folder pane
+Ctrl + 7	Switch to Shortcuts
+Esc	Close a window or menu
+Spacebar	Page down through text
+Shift + spacebar	Page up through text
+Left/right arrow key	Collapse/expand a group in email message list
+Be sure you’re not making any of these email etiquette mistakes.
+
+Navigating to the ribbon
+Dial in your Outlook navigation with these additional commands.
+
+COMMAND	ACTION
+Alt+H	Open the Home tab
+Alt+F	Open the File menu
+Alt+S	Open the Send/Receive tab
+Alt+O	Open the Folder tab
+Alt+V	Open the View tab
+Ctrl+E	Open the Search tab
+Alt+Q	Go to the Tell Me search field
+Formatting
+When you want your email to look professional, you can use the following formatting options.
+
+COMMAND	ACTION
+Ctrl + B	Make selected text bold
+Ctrl + I	Make selected text italic
+Ctrl + U	Underline selected text
+Ctrl + Shift + L	Insert bulleted list
+Ctrl + K	Insert hyperlink
+Ctrl + Shift + P	Display font dialog box
+Ctrl + ]	Increase font size
+Ctrl + [	Decrease font size
+Working with folders
+Organize your messages with these keystrokes.
+
+COMMAND	ACTION
+Ctrl + Shift + E	Create a new folder
+Ctrl + Shift + Y	Go to a different folder
+Ctrl + Shift + V	Move message to folder
+Managing tasks, appointments, and people
+These keyboard shortcuts can help you work nicely with others.
+
+COMMAND	ACTION
+Ctrl + Shift + K	Create a new task
+Ctrl + C	Accept a task request
+Ctrl + D	Decline a task request
+Ctrl + N when in Calendar view;
+Ctrl + Shift + A from any other view	Create a new appointment on Calendar
+Ctrl + Shift + Q	Create a meeting request
+Ctrl + Shift + C	Create a new contact
+Ctrl + Shift + L	Create a new contact group
+Ctrl + Shift + B	Open address book
+Ctrl + Shift + H	Create a new Microsoft Office document
