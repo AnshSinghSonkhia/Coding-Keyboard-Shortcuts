@@ -22,3 +22,4 @@
 * ```Ctrl+D``` Duplicate current line or selected block
 * ```Ctrl+R``` Replace text in current file
 * ```Ctrl+N``` To quickly open any class.
+* ```Ctrl+Shift+Backspace``` To Navigate to last edit location.
