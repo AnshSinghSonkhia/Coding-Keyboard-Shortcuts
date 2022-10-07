@@ -18,6 +18,7 @@
 - Add Files to Git ```Ctrl``` + ```Alt``` + ```A```
 - Commit Files to Git ```Ctrl``` + ```K```
 - Jump to Declarations ```Ctrl``` + ```B```
+- Maximize/minimize editor	```Ctrl``` + ```Shift``` + ```F12```
 
 ✔ Run Keys
 
