@@ -1,0 +1,1 @@
+These are the shortcuts for using international characters in coding...Happy coding!!
