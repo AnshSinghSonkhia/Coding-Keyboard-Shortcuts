@@ -1,0 +1,49 @@
+#Basic shortcuts in VirtualBox
+
+F1: Displays help.
+Ctrl + D: We access the virtual media manager.
+Ctrl + G: We access the VirtualBox preferences.
+Ctrl + S: We will open the configuration window of a virtual machine.
+Ctrl + I: Import virtualized service.
+Ctrl + E: Export virtualized service.
+Ctrl + L: Shows the event history of a virtual machine.
+Ctrl + N: Create a new virtual machine
+Ctrl + P: We pause a virtual machine.
+Ctrl + R: We delete a virtual machine.
+CTRL+Q: We exit the application.
+Ctrl + Alt + L: Session lock
+Ctrl + Alt + ⬆ or ⬇: Moving between the different desks
+Ctrl + Alt + Shift + ⬆ or ⬇: Position the desks, putting one on top of the other or below.
+Ctrl + Alt + T: Open a new terminal
+Ctrl + Alt + Tab: We alternate between system components
+Ctrl + Windows + ⬆ or ⬇: Maximize or minimize the window
+Ctrl + Windows + D: Show current desktop
+#Ctrl is the one on the left of the keyboard
+
+
+#Host shortcuts in VirtualBox
+
+F1: Displays help.
+Host + F: Enter full screen mode.
+Host + A: Adjust the window size.
+Host + L: Enter fluid mode.
+Host + G: Disable guest screen auto-resizing.
+Host + I: Disable mouse integration.
+Host + S: To take a snapshot.
+Host + N: Session information dialog (it is the machine information plus execution data).
+Host + P: Pause the virtual machine.
+Host + R: Restart the virtual machine.
+Host + Q: Close the virtual machine.
+Host + H: ACPI off.
+Host + Del: It is the same as pressing Ctrl + Alt + Del
+Host + Spacebar: Send a Ctrl + Alt + Backspace to the guest system (specific for GNU / Linux)
+#Ctrl is the one on the right of the keyboard
+
+#Alt shortcuts in VirtualBox
+
+Alt+Tab: Move between applications.
+Alt + Shift + Tab: Move in the opposite direction between applications.
+Alt+F1: Open the search menu.
+Alt+F2: Open the run box.
+Alt+F7: Scroll window.
+Alt + F8 + ⬆ or ⬇: Resize window.
