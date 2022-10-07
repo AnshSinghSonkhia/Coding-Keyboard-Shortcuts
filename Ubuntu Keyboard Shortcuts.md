@@ -91,3 +91,9 @@ For Example: Suppose a word hangout and cursor is before hangout, the above shor
 
 31. Use of Tab => To get suggestions 
 We can enter a partial initial command such as MySQL, and we’ll get a list of the commands that start with MySQL. 
+
+32. ~  => It represent the home directory or also called Home symbol for example (~/Desktop)
+
+33. Esc + B  => Moves to the beginning of the previous or current word.
+
+34. Ctrl + A  or HOME =>  Moves the cursor to the start of a line. 
