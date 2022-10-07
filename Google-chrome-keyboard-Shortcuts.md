@@ -11,3 +11,11 @@ Google Chrome Shortcuts --->
 - Open the home page in the current tab - ``Alt + Home``
 - Change Tabs - ``Ctrl + Tab``
 - Open a New Window - ``Ctrl + N``
+- Open the Find bar to search text on current page - ``Ctrl + F``
+- Print current page - ``Ctrl + P``
+- Open the browser tab to the right - ``Ctrl + PageDown``
+- Open the browser to the left - `` Ctrl + PageUp``
+- Display all the previous text entered in a text box - ``Alt + DownArrow``
+- Open the save as window to save the current page - ``Ctrl + S``
+- Add a bookmark for the page currently opened - ``Ctrl+D``
+- Select everything on a page - ``Ctrl + A``
