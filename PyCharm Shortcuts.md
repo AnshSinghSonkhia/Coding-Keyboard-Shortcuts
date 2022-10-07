@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>Comment Out</td>
-    <td>Ctrl + Shift </td>
+    <td>Ctrl + Shift + / </td>
     <td>To Comment out a line or block of code</td>
   </tr>
   <tr>
@@ -42,6 +42,12 @@
     <td>Make Configuration and Run</td>
     <td>Crtl+Shift+F10</td>
     <td>Creates a new configuration and runs the current file on screen.</td>
+  </tr>
+  
+  <tr>
+    <td>Close current file</td>
+    <td>Crtl+F4</td>
+    <td>Closes currently open file in editor.</td>
   </tr>
   
   <tr>

@@ -11,3 +11,4 @@ Google Chrome Shortcuts --->
 - Open the home page in the current tab - ``Alt + Home``
 - Change Tabs - ``Ctrl + Tab``
 - Complete an address by typing just the name - ``Ctrl + Enter``
+
